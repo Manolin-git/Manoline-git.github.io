@@ -16,3 +16,4 @@ permalink: /news/
 02 Jan 2024 - Our paper titled '[Open system approach to neutrino oscillations in a quantum walk framework](https://doi.org/10.1007/s11128-023-04222-8)' is published on Quantum Information Processing - [arXiv preprint](https://doi.org/10.48550/arXiv.2305.13923) <br>
 
 
+{{ page.permalink }}
