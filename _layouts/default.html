@@ -38,8 +38,9 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        <p>{{page.dir}}</p>
-
+        {% for page in pages %}
+        <p>{{ page.title }}</p>
+        {% endfor %}
 
       </header>
       <section>
