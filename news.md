@@ -2,6 +2,7 @@
 layout: default
 title: News
 order: 1
+permalink: /news/
 ---
 
 &nbsp;
