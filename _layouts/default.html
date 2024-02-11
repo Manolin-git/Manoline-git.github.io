@@ -39,8 +39,11 @@
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         {% for page in site.pages %}
-          <p>{{ page.name }}</p>
+          {% if page.name != "style.scss" %}
+            <p>{{ page.name }}</p>
+          {% endif %}
         {% endfor %}
+      
       
 
       </header>
