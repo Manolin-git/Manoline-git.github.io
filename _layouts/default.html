@@ -38,9 +38,10 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
-        {% for page in pages %}
-        <p>{{ page.name }}</p>
+        {% for page in site.pages %}
+          <p>{{ page.name }}</p>
         {% endfor %}
+      
 
       </header>
       <section>
