@@ -43,7 +43,9 @@
           <p> {{ page.title }} </p>
           {% endif %}
         {% endfor %}
-        <a href="{{ "./about.md"}}">Link to About Page</a>
+
+        <a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a>
+        
 
       </header>
 
