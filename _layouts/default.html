@@ -39,10 +39,11 @@
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         {% for page in site.pages %}
-          {% if {{page.name}} != "style.scss" %}
-            <p><a href="{{ "{{ page.name }}" | relative_url }}">{{ page.title }}</a></p>
+          {% if page.name != "style.scss" %}
+            <p><a href="{{ page.name | relative_url }}">{{ page.title }}</a></p>
           {% endif %}
         {% endfor %}
+      
       
       
 
