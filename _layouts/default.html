@@ -40,7 +40,7 @@
 
         {% for page in site.pages %}
           {% if page.path contains ".md" %}
-          <p> {{ page.title }} </p>
+          <p> <a href = "{{ page.path | relative_url }}"> {{ page.title }}</a> </p>
           {% endif %}
         {% endfor %}
 
