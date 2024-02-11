@@ -38,6 +38,10 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
+        {% for page in site.pages %}
+          {% if page.path contains ".md" %}
+          {% endif %}
+        {% endfor %}
 
       </header>
       <section>
