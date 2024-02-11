@@ -2,8 +2,6 @@
 layout: default
 title: Home
 permalink: /home/
-category: info
-order: 0
 ---
 
 
