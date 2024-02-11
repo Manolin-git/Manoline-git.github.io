@@ -39,8 +39,8 @@
         <p>{{ site.description | default: site.github.project_tagline }}</p>
 
         {% for page in site.pages %}
-          {% if {{page.url}} contain ".html" %}
-            <p>{{ page.title }}</p>
+          {% if {{ page.dir }} == "/" %}
+            <p>{{ page.title }} {{ page.url }}</p>
           {% endif %}
         {% endfor %}
       
