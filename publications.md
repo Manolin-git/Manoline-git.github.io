@@ -2,6 +2,7 @@
 layout: default
 title: Publications
 order: 3
+permalink: /publications/
 ---
 
 &nbsp;

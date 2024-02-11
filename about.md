@@ -2,6 +2,7 @@
 layout: default
 title: About
 order: 4
+permalink: /about/
 ---
 
 &nbsp;

@@ -2,6 +2,7 @@
 layout: default
 title: Contact
 order: 5
+permalink: /contact/
 ---
 
 &nbsp;

@@ -3,6 +3,7 @@ layout: default
 title: Home
 order: 0
 tags: posts
+permalink: /home/
 ---
 
 
