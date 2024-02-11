@@ -40,7 +40,7 @@
 
         {% for page in site.pages %}
           {% if {{page.name}} != "style.scss" %}
-            <p>{{ page.name }}</p>
+            <p><a href="{{ "{{page.name}}" | relative_url }}">page.title</a></p>
           {% endif %}
         {% endfor %}
       
