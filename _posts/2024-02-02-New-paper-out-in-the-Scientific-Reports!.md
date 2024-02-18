@@ -9,6 +9,7 @@ categories: publication update
     body {
         font-family: 'Comfortaa', cursive;
         font-size: 16px;
+        text-align: justify;
     }
 </style>
 
@@ -17,4 +18,3 @@ My paper titled '[Quantum-walk search in motion](https://www.nature.com/articles
 ![image tooltip here](/Manoline-git.github.io/img/graph.jpg)
 
 
- {: .text-justify}
