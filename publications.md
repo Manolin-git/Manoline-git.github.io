@@ -34,3 +34,6 @@ A. Bhattacharya, P. Nandy, P.P. Nath & H. Sahu, Operator growth and Krylov const
 A. Bhattacharya, P.P. Nath & H. Sahu, Krylov complexity for non-local spin chains, (2023). [arXiv:2312.11677](https://arxiv.org/abs/2312.11677)<br>
 
 K.V. Sharma, H. Sahu & S. Mukerjee, Quantum chaos in $\mathcal{PT}$-symmetric Quantum Kicked Rotor, (2023). [arXiv:2401.07215](https://doi.org/10.48550/arXiv.2401.07215)
+
+
+{: .text-justify}
