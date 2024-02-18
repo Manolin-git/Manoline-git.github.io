@@ -5,7 +5,16 @@ order: 4
 permalink: /about/
 ---
 
+<style>
+    body {
+        font-family: 'Comfortaa', cursive;
+        font-size: 16px;
+    }
+</style>
+
+
 &nbsp;
+
 <div style="text-align: justify"> 
 
 Hi there! I am an MS in Physical and Mathematical Science at Division of Physical and Math. Sciences, Indian Institute of Science. I am also part of Quantum Optics and Quantum Information Lab at the Department of Instrumental and Applied Physics, working under Prof. CM Chandrashekar.  

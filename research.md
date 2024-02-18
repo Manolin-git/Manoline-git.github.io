@@ -5,16 +5,25 @@ order: 2
 permalink: /research/
 ---
 
+<style>
+    body {
+        font-family: 'Comfortaa', cursive;
+        font-size: 16px;
+        text-align: justify;
+    }
+</style>
+
+
 &nbsp;
 
 My research focus on two themes (sometime on the intersection) : <br>
 
-*Quantum information scrambling:*  mixing up qubits so that they become entangled
+**Quantum information scrambling:**  mixing up qubits so that they become entangled
 and intertwined, creating a complex mess. The quantity called Krylov complexity
 (K-complexity) quantifies how quantum information scrambles. We study and characterize the behavior of K-complexity in various systems.<br>
 
 
-*Quantum algorithms & simulations:*  <br>
+**Quantum algorithms & simulations:**  <br>
 
 
 

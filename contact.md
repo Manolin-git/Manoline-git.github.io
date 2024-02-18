@@ -4,6 +4,13 @@ title: Contact
 order: 5
 permalink: /contact/
 ---
+<style>
+    body {
+        font-family: 'Comfortaa', cursive;
+        font-size: 16px;
+        text-align: justify;
+    }
+</style>
 
 &nbsp;
 
