@@ -7,7 +7,7 @@ layout: home
 
 <style>
     body {
-        font-family: 'Comfortaa', cursive;
+        font-family: 'Comfortaa', sans-serif;
         font-size: 16px;
         text-align: justify;
     }
