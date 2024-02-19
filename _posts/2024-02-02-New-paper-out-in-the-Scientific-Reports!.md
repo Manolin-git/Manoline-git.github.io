@@ -6,15 +6,17 @@ categories: publication update
 ---
 
 <style>
+    @font-face {
+            font-family: 'Comfortaa';
+            src: url('/Manoline-git.github.io/fonts/Comfortaa-Regular.ttf') format('truetype');
+            font-weight: normal;
+            font-style: normal;
+    }
+    
     body {
         font-family: 'Comfortaa', sans-serif;
         font-size: 16px;
         text-align: justify;
-    }
-    h1 {
-        font-family: 'Comfortaa', sans-serif; /* Replace 'Your Desired Font' with the actual font name */
-        /* Add any other styles as needed */
-        font-size: 10px;
     }
 </style>
 
