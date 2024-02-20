@@ -30,8 +30,10 @@ permalink: /publications/
 
 <h2>Peer-reviewed journals</h2>
 
+A. Bhattacharya, P.P. Nath & H. Sahu, Krylov complexity for non-local spin chains, (2024). <a href="https://arxiv.org/abs/2312.11677">arXiv:2312.11677</a>
+<br>
 
-A. Bhattacharya, H. Sahu, A. Zahed, and K. Sen, Complexity for one-dimensional Discrete Time Quantum Walk Circuits, (2023). <a href="https://doi.org/10.48550/arXiv.2307.13450">arXiv:2307.13450</a>
+A. Bhattacharya, H. Sahu, A. Zahed, and K. Sen, Complexity for one-dimensional Discrete Time Quantum Walk Circuits.  <a href="https://doi.org/10.1103/PhysRevA.109.022223">Physics Review A 109, 022223 (2024).</a>
 
 
 H. Sahu & K. Sen, Quantum-walk search in motion. <a href="https://doi.org/10.1038/s41598-024-51709-0">Scientific Reports 14, 2815 (2024)</a> <br>
@@ -45,11 +47,6 @@ A. Bhattacharya, P. Nandy, P.P. Nath & H. Sahu, Operator growth and Krylov const
 
 
 <h2>Pre-prints under review</h2>
-
-
-
-A. Bhattacharya, P.P. Nath & H. Sahu, Krylov complexity for non-local spin chains, (2023). <a href="https://arxiv.org/abs/2312.11677">arXiv:2312.11677</a>
-<br>
 
 K.V. Sharma, H. Sahu & S. Mukerjee, Quantum chaos in $\mathcal{PT}$-symmetric Quantum Kicked Rotor, (2023). <a href="https://doi.org/10.48550/arXiv.2401.07215">arXiv:2401.07215</a>
 

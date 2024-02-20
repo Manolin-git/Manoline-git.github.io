@@ -23,6 +23,8 @@ permalink: /news/
 
 <h2>Recent News</h2>
 
+20 Feb 2024 - Our paper titled '<a href="https://doi.org/10.1103/PhysRevA.109.022223">Complexity for one-dimensional discrete-time quantum walk circuits</a>' is published on Physics Review A <br>
+
 02 Feb 2024 - Our paper titled '<a href="https://www.nature.com/articles/s41598-024-51709-0">Quantum-walk search in motion</a>
 ' is published on Scientific Reports - Open acess available <br>
 
@@ -34,4 +36,5 @@ permalink: /news/
 
 02 Jan 2024 - Our paper titled '<a href="https://doi.org/10.1007/s11128-023-04222-8">Open system approach to neutrino oscillations in a quantum walk framework</a>
 ' is published on Quantum Information Processing - <a href="https://doi.org/10.48550/arXiv.2305.13923">arXiv preprint</a>
+ 
  <br>
