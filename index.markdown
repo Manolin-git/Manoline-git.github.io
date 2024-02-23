@@ -17,13 +17,32 @@ layout: home
         font-size: 16px;
         text-align: justify;
     }
+    .image-container {
+        display: flex;
+        align-items: center; /* Center the image vertically */
+    }
+
+    .image-container img {
+        margin-right: 20px; /* Set the right margin */
+        width: 250px;
+        height: auto;
+    }
 </style>
 
 &nbsp;
 
-<img src="/Manoline-git.github.io/img/img.jpg" align="left" hspace = '20' width="250px"/>
+<div class="image-container">
+    <img src="/Manoline-git.github.io/img/img.jpg" alt="Image" />
+    <p>
+        I am a physicist broadly interested in the ideas at the intersection between condensed matter theory, quantum computing, and information theory.
+        A significant fraction of my research is naturally devoted to the development and use of quantum algorithms and simulations.
+        I'm also interested in studying quantum information scrambling in many-body systems.
+    </p>
+</div>
+
+<!-- <img src="/Manoline-git.github.io/img/img.jpg" align="left" hspace = '10' width="250px"/>
 I am a physicist broadly interested in the ideas at the intersection between condensed matter theory, quantum computing, and informatin theory. A significant fraction of my research is naturally devoted the development and use of quantum algorithms and simulations. I'm also interested in studying quantum information scrambling in many-body systems.
 
-<br clear="left"/>
+<br clear="left"/> -->
 
 &nbsp;
