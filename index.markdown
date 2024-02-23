@@ -27,22 +27,20 @@ layout: home
         width: 250px;
         height: auto;
     }
+    .text-content {
+        color: #6C757D; /* Set the text color to #6C757D */
+    }
 </style>
 
 &nbsp;
 
 <div class="image-container">
     <img src="/Manoline-git.github.io/img/img.jpg" alt="Image" />
-    <p>
-        I am a physicist broadly interested in the ideas at the intersection between condensed matter theory, quantum computing, and information theory.
-        A significant fraction of my research is naturally devoted to the development and use of quantum algorithms and simulations.
-        I'm also interested in studying quantum information scrambling in many-body systems.
+    <p class="text-content">
+            I am a physicist broadly interested in the ideas at the intersection between condensed matter theory, quantum computing, and information theory.
+            A significant fraction of my research is naturally devoted to the development and use of quantum algorithms and simulations.
+            I'm also interested in studying quantum information scrambling in many-body systems.
     </p>
 </div>
-
-<!-- <img src="/Manoline-git.github.io/img/img.jpg" align="left" hspace = '10' width="250px"/>
-I am a physicist broadly interested in the ideas at the intersection between condensed matter theory, quantum computing, and informatin theory. A significant fraction of my research is naturally devoted the development and use of quantum algorithms and simulations. I'm also interested in studying quantum information scrambling in many-body systems.
-
-<br clear="left"/> -->
 
 &nbsp;
