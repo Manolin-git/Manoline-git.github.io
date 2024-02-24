@@ -30,6 +30,12 @@ layout: home
     .text-content {
         color: #6C757D; /* Set the text color to #6C757D */
     }
+    h2 {
+        color: #343A40; /* Change color for h1 */
+    }
+    h3 {
+        color: #343A40; /* Change color for h1 */
+    }
 </style>
 
 &nbsp;

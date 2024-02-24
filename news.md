@@ -16,7 +16,18 @@ permalink: /news/
         font-family: 'Comfortaa', sans-serif;
         font-size: 16px;
         text-align: justify;
+        color: #6C757D;
     }
+    h1 {
+        color: #343A40; /* Change color for h1 */
+    }
+    h2 {
+        color: #343A40; /* Change color for h1 */
+    }
+    h3 {
+        color: #343A40; /* Change color for h1 */
+    }
+
 </style>
 
 &nbsp;

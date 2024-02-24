@@ -17,7 +17,18 @@ permalink: /publications/
         font-family: 'Comfortaa', sans-serif;
         font-size: 16px;
         text-align: justify;
+        color: #6C757D;
     }
+    h1 {
+        color: #343A40; /* Change color for h1 */
+    }
+    h2 {
+        color: #343A40; /* Change color for h1 */
+    }
+    h3 {
+        color: #343A40; /* Change color for h1 */
+    }
+
 </style>
 
 
@@ -28,7 +39,7 @@ permalink: /publications/
 
 &nbsp;
 
-<h2>Peer-reviewed journals</h2>
+<h2 style="color: #343A40;">Peer-reviewed journals</h2>
 
 A. Bhattacharya, P.P. Nath & H. Sahu, Krylov complexity for non-local spin chains, (2024). <a href="https://arxiv.org/abs/2312.11677">arXiv:2312.11677</a>
 <br>
@@ -45,8 +56,7 @@ A. Bhattacharya, P. Nandy, P.P. Nath & H. Sahu, On Krylov complexity in open sys
 A. Bhattacharya, P. Nandy, P.P. Nath & H. Sahu, Operator growth and Krylov construction in dissipative open quantum systems. <a href="https://doi.org/10.1007/JHEP12(2022)081">J. High Energ. Phys. 2022, 81 (2022)</a><br>
 
 
-
-<h2>Pre-prints under review</h2>
+<h2 style="color: #343A40;">Pre-prints under review</h2>
 
 K.V. Sharma, H. Sahu & S. Mukerjee, Quantum chaos in $\mathcal{PT}$-symmetric Quantum Kicked Rotor, (2023). <a href="https://doi.org/10.48550/arXiv.2401.07215">arXiv:2401.07215</a>
 
