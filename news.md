@@ -5,8 +5,34 @@ order: 1
 permalink: /news/
 ---
 
+<head>
+  <link rel="stylesheet" href="/Manoline-git.github.io/css/main.css" />
+</head>
+
 &nbsp;
 
+<div class="post-list">
+  {%- if site.posts.size > 0 -%}
+  <h2 class="post-list-heading">{{ page.list_title | default: "Recent News" }}</h2>
+  <ul class="post-list">
+    {%- for post in site.posts -%}
+    <li>
+      {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y"
+      -%}
+      <span class="post-meta">{{ post.date | date: date_format }}</span>
+      <h3 style="font-size: 12px !important;">
+        <a class="post-link" href="{{ post.url | relative_url }}">
+          {{ post.title | escape }}
+        </a>
+      </h3>
+      {%- if site.show_excerpts -%} {{ post.excerpt }} {%- endif -%}
+    </li>
+    {%- endfor -%}
+  </ul>
+  {%- endif -%}
+</div>
+
+<!--
 <h2>Recent News</h2>
 
 20 Feb 2024 - Our paper titled '<a href="https://doi.org/10.1103/PhysRevA.109.022223">Complexity for one-dimensional discrete-time quantum walk circuits</a>' is published on Physics Review A <br>
@@ -23,4 +49,4 @@ permalink: /news/
 02 Jan 2024 - Our paper titled '<a href="https://doi.org/10.1007/s11128-023-04222-8">Open system approach to neutrino oscillations in a quantum walk framework</a>
 ' is published on Quantum Information Processing - <a href="https://doi.org/10.48550/arXiv.2305.13923">arXiv preprint</a>
 
- <br>
+<br> -->

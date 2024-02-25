@@ -3,44 +3,7 @@ layout: default
 ---
 
 <head>
-  <style>
-    @font-face {
-      font-family: "Comfortaa";
-      src: url("/Manoline-git.github.io/fonts/Comfortaa-Regular.ttf")
-        format("truetype");
-      font-weight: normal;
-      font-style: normal;
-    }
-
-    body {
-      font-family: "Comfortaa", sans-serif;
-      font-size: 16px;
-      text-align: justify;
-    }
-
-    .image-container {
-      display: flex;
-      align-items: center; /* Center the image vertically */
-    }
-
-    .image-container img {
-      margin-right: 20px; /* Set the right margin */
-      width: 250px;
-      height: auto;
-    }
-
-    .text-content {
-      color: #6c757d; /* Set the text color to #6C757D */
-    }
-
-    h2 {
-      color: #343a40; /* Change color for h2 */
-    }
-
-    h3 {
-      color: #343a40; /* Change color for h3 */
-    }
-  </style>
+  <link rel="stylesheet" href="/Manoline-git.github.io/css/main.css" />
 </head>
 
 <article
@@ -49,7 +12,11 @@ layout: default
   itemtype="http://schema.org/BlogPosting"
 >
   <header class="post-header">
-    <h1 class="post-title p-name" itemprop="name headline">
+    <h1
+      class="post-title p-name"
+      itemprop="name headline"
+      style="color: #212529"
+    >
       {{ page.title | escape }}
     </h1>
     <p class="post-meta">

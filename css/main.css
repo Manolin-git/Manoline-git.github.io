@@ -22,7 +22,7 @@ strong {
 em,
 i {
   font-style: italic;
-  color: #212529; /* Set the color for italic text */
+  color: #000000; /* Set the color for italic text */
 }
 
 .image-container {
