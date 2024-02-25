@@ -56,6 +56,12 @@ i {
     color: #6c757d;
     /* Set the text color to #6C757D */
   }
+  body {
+    font-family: "Comfortaa", sans-serif;
+    font-size: 16px;
+    color: #6c757d;
+    text-align: justify;
+  }
 }
 
 h2 {
