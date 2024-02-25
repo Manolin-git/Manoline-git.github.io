@@ -5,40 +5,6 @@
 layout: home
 ---
 
-<style>
-    @font-face {
-            font-family: 'Comfortaa';
-            src: url('/Manoline-git.github.io/fonts/Comfortaa-Regular.ttf') format('truetype');
-            font-weight: normal;
-            font-style: normal;
-    }
-    
-    body {
-        font-family: 'Comfortaa', sans-serif;
-        font-size: 16px;
-        text-align: justify;
-    }
-    .image-container {
-        display: flex;
-        align-items: center; /* Center the image vertically */
-    }
-
-    .image-container img {
-        margin-right: 20px; /* Set the right margin */
-        width: 250px;
-        height: auto;
-    }
-    .text-content {
-        color: #6C757D; /* Set the text color to #6C757D */
-    }
-    h2 {
-        color: #343A40; /* Change color for h1 */
-    }
-    h3 {
-        color: #343A40; /* Change color for h1 */
-    }
-</style>
-
 &nbsp;
 
 <div class="image-container">
