@@ -4,31 +4,6 @@ title: News
 order: 1
 permalink: /news/
 ---
-<style>
-    @font-face {
-            font-family: 'Comfortaa';
-            src: url('/Manoline-git.github.io/fonts/Comfortaa-Regular.ttf') format('truetype');
-            font-weight: normal;
-            font-style: normal;
-    }
-    
-    body {
-        font-family: 'Comfortaa', sans-serif;
-        font-size: 16px;
-        text-align: justify;
-        color: #6C757D;
-    }
-    h1 {
-        color: #343A40; /* Change color for h1 */
-    }
-    h2 {
-        color: #343A40; /* Change color for h1 */
-    }
-    h3 {
-        color: #343A40; /* Change color for h1 */
-    }
-
-</style>
 
 &nbsp;
 
@@ -47,5 +22,5 @@ permalink: /news/
 
 02 Jan 2024 - Our paper titled '<a href="https://doi.org/10.1007/s11128-023-04222-8">Open system approach to neutrino oscillations in a quantum walk framework</a>
 ' is published on Quantum Information Processing - <a href="https://doi.org/10.48550/arXiv.2305.13923">arXiv preprint</a>
- 
+
  <br>
