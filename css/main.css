@@ -25,22 +25,37 @@ i {
   color: #000000; /* Set the color for italic text */
 }
 
+/* Default styles for larger screens */
 .image-container {
   display: flex;
-  align-items: center;
-  /* Center the image vertically */
+  align-items: center; /* Center the image vertically */
 }
 
 .image-container img {
-  margin-right: 20px;
-  /* Set the right margin */
+  margin-right: 20px; /* Set the right margin */
   width: 250px;
   height: auto;
 }
 
 .text-content {
-  color: #6c757d;
-  /* Set the text color to #6C757D */
+  color: #6c757d; /* Set the text color to #6C757D */
+}
+
+/* Media query for smaller screens (max-width: 767px) */
+@media (max-width: 767px) {
+  .image-container {
+    flex-direction: column; /* Stack items vertically for smaller screens */
+    text-align: center; /* Center text in the vertical direction */
+  }
+
+  .image-container img {
+    margin-bottom: 10px; /* Add space between image and text */
+  }
+
+  .text-content {
+    color: #6c757d;
+    /* Set the text color to #6C757D */
+  }
 }
 
 h2 {
