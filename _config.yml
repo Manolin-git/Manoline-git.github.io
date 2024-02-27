@@ -23,7 +23,7 @@ email: himanshusah1@iisc.ac.in
 description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "/Manoline-git.github.io" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
-github_username:  Manoline-git
+github_username: Manoline-git
 
 # Build settings
 theme: minima
@@ -36,10 +36,6 @@ header_pages:
   - publications.md
   - about.md
   - contact.md
-
-
-
-
 # Exclude from processing.
 # The following items will not be processed, by default.
 # Any item listed under the `exclude:` key here will be automatically added to
