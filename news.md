@@ -13,15 +13,15 @@ permalink: /news/
 
 <div class="post-list">
   {%- if site.posts.size > 0 -%}
-  <h2 class="post-list-heading">{{ page.list_title | default: "Recent News" }}</h2>
+  <h2 class="post-list-heading" style="font-size: 24px !important">{{ page.list_title | default: "Recent News" }}</h2>
   <ul class="post-list">
     {%- for post in site.posts -%}
     <li>
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y"
       -%}
       <span class="post-meta">{{ post.date | date: date_format }}</span>
-      <h3 style="font-size: 12px !important;">
-        <a class="post-link" href="{{ post.url | relative_url }}">
+      <h3>
+        <a class="post-link" href="{{ post.url | relative_url }}" style="font-size: 18px !important">
           {{ post.title | escape }}
         </a>
       </h3>
