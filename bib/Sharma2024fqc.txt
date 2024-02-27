@@ -1,0 +1,9 @@
+@article{Sharma:2024fqc,
+    author = "Sharma, Kshitij and Sahu, Himanshu and Mukerjee, Subroto",
+    title = "{Quantum chaos in PT symmetric quantum systems}",
+    eprint = "2401.07215",
+    archivePrefix = "arXiv",
+    primaryClass = "quant-ph",
+    month = "1",
+    year = "2024"
+}

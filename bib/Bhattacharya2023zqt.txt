@@ -1,0 +1,13 @@
+@article{Bhattacharya:2023zqt,
+    author = "Bhattacharya, Aranya and Nandy, Pratik and Nath, Pingal Pratyush and Sahu, Himanshu",
+    title = "{On Krylov complexity in open systems: an approach via bi-Lanczos algorithm}",
+    eprint = "2303.04175",
+    archivePrefix = "arXiv",
+    primaryClass = "quant-ph",
+    reportNumber = "YITP-23-25",
+    doi = "10.1007/JHEP12(2023)066",
+    journal = "JHEP",
+    volume = "12",
+    pages = "066",
+    year = "2023"
+}

@@ -1,0 +1,9 @@
+@article{Bhattacharya:2023xjx,
+    author = "Bhattacharya, Aranya and Nath, Pingal Pratyush and Sahu, Himanshu",
+    title = "{Krylov complexity for non-local spin chains}",
+    eprint = "2312.11677",
+    archivePrefix = "arXiv",
+    primaryClass = "quant-ph",
+    month = "12",
+    year = "2023"
+}

@@ -1,0 +1,13 @@
+@article{Sahu:2023sbf,
+    author = "Sahu, Himanshu and Sen, Kallol",
+    title = "{Quantum-walk search in motion}",
+    eprint = "2310.14345",
+    archivePrefix = "arXiv",
+    primaryClass = "quant-ph",
+    doi = "10.1038/s41598-024-51709-0",
+    journal = "Sci. Rep.",
+    volume = "14",
+    number = "1",
+    pages = "2815",
+    year = "2024"
+}

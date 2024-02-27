@@ -1,0 +1,13 @@
+@article{Bhattacharya:2023syx,
+    author = "Bhattacharya, Aranya and Sahu, Himanshu and Zahed, Ahmadullah and Sen, Kallol",
+    title = "{Complexity for one-dimensional discrete-time quantum walk circuits}",
+    eprint = "2307.13450",
+    archivePrefix = "arXiv",
+    primaryClass = "quant-ph",
+    doi = "10.1103/PhysRevA.109.022223",
+    journal = "Phys. Rev. A",
+    volume = "109",
+    number = "2",
+    pages = "022223",
+    year = "2024"
+}

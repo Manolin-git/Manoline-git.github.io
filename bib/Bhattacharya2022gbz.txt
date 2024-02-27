@@ -1,0 +1,12 @@
+@article{Bhattacharya:2022gbz,
+    author = "Bhattacharya, Aranya and Nandy, Pratik and Nath, Pingal Pratyush and Sahu, Himanshu",
+    title = "{Operator growth and Krylov construction in dissipative open quantum systems}",
+    eprint = "2207.05347",
+    archivePrefix = "arXiv",
+    primaryClass = "quant-ph",
+    doi = "10.1007/JHEP12(2022)081",
+    journal = "JHEP",
+    volume = "12",
+    pages = "081",
+    year = "2022"
+}

@@ -8,7 +8,7 @@
 body {
   font-family: "Comfortaa", sans-serif;
   font-size: 16px;
-  color: #6c757d;
+  color: #495057;
   text-align: justify;
 }
 
@@ -38,7 +38,7 @@ i {
 }
 
 .text-content {
-  color: #6c757d; /* Set the text color to #6C757D */
+  color: #495057; /* Set the text color to #6C757D */
 }
 
 /* Media query for smaller screens (max-width: 767px) */
@@ -53,13 +53,13 @@ i {
   }
 
   .text-content {
-    color: #6c757d;
+    color: #495057;
     /* Set the text color to #6C757D */
   }
   body {
     font-family: "Comfortaa", sans-serif;
     font-size: 16px;
-    color: #6c757d;
+    color: #495057;
     text-align: justify;
   }
 }
