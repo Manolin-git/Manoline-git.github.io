@@ -20,7 +20,7 @@ Publications are listed in reverse chronological order. Preprints are eventually
 Krylov complexity for non-local spin chains <sup>&dagger;</sup><br>
 <small>Aranya Bhattacharya, Pingal Pratyush Nath, <span style="color: #800020 !important;">Himanshu Sahu</span> (Dec 18, 2023)<br>
 e-Print: <a href="https://arxiv.org/abs/2312.11677">2312.11677 [quant-ph]</a> </small> <br>
-<a href="https://arxiv.org/pdf/2401.07215.pdf" target="_blank" rel="noopener noreferrer">
+<a href="https://arxiv.org/pdf/2312.11677.pdf" target="_blank" rel="noopener noreferrer">
 <i class="fa-solid fa-file-pdf"></i> <small>View PDF</small>
 </a> &nbsp; &nbsp; &nbsp;
 <a href="/Manoline-git.github.io/bib/Bhattacharya2023xjx.txt" target="_blank" rel="noopener noreferrer">
@@ -47,7 +47,7 @@ Quantum-walk search in motion <br>
 Published in: Sci. Rep. 14 (2024) 1, 2815 <br>
 e-Print: <a href="https://arxiv.org/abs/2310.14345">2310.14345 [quant-ph]</a> <br>
 </small>
-<a href="https://arxiv.org/pdf/2307.13450.pdf" target="_blank" rel="noopener noreferrer">
+<a href="https://arxiv.org/pdf/2310.14345.pdf" target="_blank" rel="noopener noreferrer">
 <i class="fa-solid fa-file-pdf"></i> <small>View PDF</small>
 </a> &nbsp; &nbsp; &nbsp;
 <a href="/Manoline-git.github.io/bib/Sahu2023sbf.txt" target="_blank" rel="noopener noreferrer">
