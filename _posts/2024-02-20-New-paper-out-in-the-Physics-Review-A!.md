@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New paper out in the Physics Review A!"
+title: "New paper out in the Physics Review A"
 date: 2024-02-20 00:55:31 +0530
 categories: publication update
 ---

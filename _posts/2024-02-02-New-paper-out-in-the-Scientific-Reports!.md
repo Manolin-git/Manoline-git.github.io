@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New paper out in the Scientific Reports!"
+title: "New paper out in the Scientific Reports"
 date: 2024-02-02 00:55:31 +0530
 categories: publication update
 ---

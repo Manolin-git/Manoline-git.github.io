@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "New paper out in the Quantum Information Processing!"
+title: "New paper out in the Quantum Information Processing"
 date: 2024-01-02 00:55:31 +0530
 categories: publication update
 ---
