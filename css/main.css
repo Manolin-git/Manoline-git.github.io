@@ -5,6 +5,7 @@
   font-weight: normal;
   font-style: normal;
 }
+
 body {
   font-family: "Comfortaa", sans-serif;
   font-size: 16px;
@@ -23,6 +24,15 @@ em,
 i {
   font-style: italic;
   color: #000000; /* Set the color for italic text */
+}
+
+.sketch-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 200px; /* Set the width for the sketch */
+  height: 100%; /* Take full height of the content */
+  z-index: 1; /* Sketch behind the content */
 }
 
 /* Default styles for larger screens */
@@ -64,6 +74,13 @@ i {
   }
 }
 
+/* Headings */
+
+h1 {
+  color: #343a40;
+  /* Change color for h2 */
+}
+
 h2 {
   color: #343a40;
   /* Change color for h2 */
@@ -74,4 +91,12 @@ h3 {
   /* Change color for h3 */
 }
 
-/*# sourceMappingURL=main.css.map */
+/* canvas {
+  width: 500px;
+  height: 500px;
+  position: absolute;
+  z-index: 1;
+  top: 0;
+  left: 0;
+  margin: -250px 0 0 -250px;
+}  */

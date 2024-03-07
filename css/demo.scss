@@ -1,0 +1,103 @@
+@font-face {
+  font-family: "Comfortaa";
+  src: url("/Manoline-git.github.io/fonts/Comfortaa-Regular.ttf")
+    format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+body {
+  font-family: "Comfortaa", sans-serif;
+  font-size: 16px;
+  color: #495057;
+  text-align: justify;
+}
+
+b,
+strong {
+  font-family: "Comfortaa";
+  font-weight: normal;
+  color: #212529; /* Set the color for bold text */
+}
+
+em,
+i {
+  font-style: italic;
+  color: #000000; /* Set the color for italic text */
+}
+
+.sketch-container {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 200px; /* Set the width for the sketch */
+  height: 100%; /* Take full height of the content */
+  z-index: 1; /* Sketch behind the content */
+}
+
+/* Default styles for larger screens */
+.image-container {
+  display: flex;
+  align-items: center; /* Center the image vertically */
+}
+
+.image-container img {
+  margin-right: 20px; /* Set the right margin */
+  width: 250px;
+  height: auto;
+}
+
+.text-content {
+  color: #495057; /* Set the text color to #6C757D */
+}
+
+/* Media query for smaller screens (max-width: 767px) */
+@media (max-width: 767px) {
+  .image-container {
+    flex-direction: column; /* Stack items vertically for smaller screens */
+    text-align: center; /* Center text in the vertical direction */
+  }
+
+  .image-container img {
+    margin-bottom: 10px; /* Add space between image and text */
+  }
+
+  .text-content {
+    color: #495057;
+    /* Set the text color to #6C757D */
+  }
+  body {
+    font-family: "Comfortaa", sans-serif;
+    font-size: 16px;
+    color: #495057;
+    text-align: justify;
+  }
+}
+
+/* Headings */
+
+h1 {
+  color: #343a40;
+  /* Change color for h2 */
+}
+
+h2 {
+  color: #343a40;
+  /* Change color for h2 */
+}
+
+h3 {
+  color: #343a40;
+  /* Change color for h3 */
+}
+
+/*# sourceMappingURL=main.css.map */
+
+canvas {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: -1;
+}
