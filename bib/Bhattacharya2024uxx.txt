@@ -1,0 +1,9 @@
+@article{Bhattacharya:2024uxx,
+    author = "Bhattacharya, Aranya and Nath, Pingal Pratyush and Sahu, Himanshu",
+    title = "{Speed limits to the growth of Krylov complexity in open quantum systems}",
+    eprint = "2403.03584",
+    archivePrefix = "arXiv",
+    primaryClass = "quant-ph",
+    month = "3",
+    year = "2024"
+}

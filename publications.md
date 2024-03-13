@@ -19,12 +19,16 @@ Publications are listed in reverse chronological order. Preprints are eventually
 
 Krylov complexity for non-local spin chains <sup>&dagger;</sup><br>
 <small>Aranya Bhattacharya, Pingal Pratyush Nath, <span style="color: #800020 !important;">Himanshu Sahu</span> (Dec 18, 2023)<br>
+Published in: Phys. Rev. D 109 (2024), 066010 <br>
 e-Print: <a href="https://arxiv.org/abs/2312.11677">2312.11677 [quant-ph]</a> </small> <br>
 <a href="https://arxiv.org/pdf/2312.11677.pdf" target="_blank" rel="noopener noreferrer">
 <i class="fa-solid fa-file-pdf"></i> <small>View PDF</small>
 </a> &nbsp; &nbsp; &nbsp;
 <a href="/Manoline-git.github.io/bib/Bhattacharya2023xjx.txt" target="_blank" rel="noopener noreferrer">
 <i class="fa-solid fa-quote-left"></i> <small>cite</small>
+</a> &nbsp; &nbsp; &nbsp;
+<a href="https://doi.org/10.1103/PhysRevD.109.066010" target="_blank" rel="noopener noreferrer">
+<i class="fa-solid fa-link"></i> <small>DOI</small>
 </a>
 
 Complexity for one-dimensional Discrete Time Quantum Walk Circuits <br>
@@ -49,7 +53,7 @@ e-Print: <a href="https://arxiv.org/abs/2310.14345">2310.14345 [quant-ph]</a> <b
 </small>
 <a href="https://arxiv.org/pdf/2310.14345.pdf" target="_blank" rel="noopener noreferrer">
 <i class="fa-solid fa-file-pdf"></i> <small>View PDF</small>
-</a> &nbsp; &nbsp; &http://127.0.0.1:4000nbsp;
+</a> &nbsp; &nbsp;
 <a href="/Manoline-git.github.io/bib/Sahu2023sbf.txt" target="_blank" rel="noopener noreferrer">
 <i class="fa-solid fa-quote-left"></i> <small>cite</small>
 </a> &nbsp; &nbsp; &nbsp;
@@ -110,6 +114,18 @@ e-Print: <a href="https://arxiv.org/abs/2207.05347">2207.05347 [quant-ph]</a> <b
 
 <h2 style="color: #343A40;">Pre-prints under review</h2>
 
+<h3 id="2024_pre" style="color: #343A40;">2024</h3>
+
+Speed limits to the growth of Krylov complexity in open quantum systems<br>
+<small>Aranya Bhattacharya, Pingal Pratyush Nath, <span style="color: #800020 !important;">Himanshu Sahu</span> (Mar 06, 2024)<br>
+e-Print: <a href="https://arxiv.org/abs/2403.03584">2403.03584 [quant-ph]</a> </small> <br>
+<a href="https://arxiv.org/pdf/2403.03584.pdf" target="_blank" rel="noopener noreferrer">
+<i class="fa-solid fa-file-pdf"></i> <small>View PDF</small>
+</a> &nbsp; &nbsp; &nbsp;
+<a href="/Manoline-git.github.io/bib/Bhattacharya2024uxx.txt" target="_blank" rel="noopener noreferrer">
+<i class="fa-solid fa-quote-left"></i> <small>cite</small>
+</a> &nbsp; &nbsp; &nbsp;
+
 <h3 id="2023_pre" style="color: #343A40;">2023</h3>
 
 Quantum chaos in $\mathcal{PT}$-symmetric Quantum Kicked Rotor<br>
@@ -123,10 +139,6 @@ e-Print: <a href="https://arxiv.org/abs/2401.07215">2401.07215 [quant-ph]</a> <b
 <i class="fa-solid fa-quote-left"></i> <small>cite</small>
 </a> &nbsp; &nbsp; &nbsp;
 
-<!-- <a href="https://doi.org/10.1007/JHEP12(2022)081" target="_blank" rel="noopener noreferrer">
-<i class="fa-solid fa-link"></i> <small>DOI</small>
-</a> -->
-
 &nbsp;
 
-<sup>&dagger;</sup> All authors have equally contributed to this work.
+<sup>&dagger;</sup> All authors contributed equally to this work. The authors of this paper were ordered alphabetically.
