@@ -100,3 +100,8 @@ h3 {
   left: 0;
   margin: -250px 0 0 -250px;
 }  */
+
+#chartdiv {
+  width: 100%;
+  height: 500px;
+}
