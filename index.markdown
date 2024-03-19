@@ -5,6 +5,22 @@
 layout: home
 ---
 
+<div id="sentence-wrapper">
+                <h5 class="sentence">
+                    <span>I transform</span>
+                    <span> coffee </span>
+                    <span>into</span>
+                    <div class="words words-1">
+                        <span>idea</span>
+                        <span>happiness</span>
+                        <span>article</span>
+                        <span>answer</span>
+                        <span>learning</span>
+                        <span>website</span>
+                    </div>
+                </h5>
+</div>
+
 &nbsp;
 
 <div class="image-container">
