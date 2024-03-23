@@ -29,7 +29,7 @@ github_username: Manoline-git
 theme: minima
 plugins:
   - jekyll-feed
-
+  - jekyll-twitter-plugin
 header_pages:
   - news.md
   - research.md

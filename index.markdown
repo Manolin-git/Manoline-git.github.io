@@ -5,7 +5,7 @@
 layout: home
 ---
 
-<div id="sentence-wrapper">
+<!-- <div id="sentence-wrapper">
                 <h5 class="sentence">
                     <span>I transform</span>
                     <span> coffee </span>
@@ -21,7 +21,7 @@ layout: home
                 </h5>
 </div>
 
-&nbsp;
+&nbsp; -->
 
 <div class="image-container">
     <img src="/Manoline-git.github.io/img/img.jpg" alt="Image" />
@@ -31,5 +31,9 @@ layout: home
             I'm also interested in studying quantum information scrambling in many-body systems.
     </p>
 </div>
+
+&nbsp;
+
+{% twitter https://twitter.com/Himansh59335370 maxwidth=500 limit=5 %}
 
 &nbsp;

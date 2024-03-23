@@ -13,7 +13,11 @@ Publications are listed in reverse chronological order. Preprints are eventually
 
 &nbsp;
 
-<h2 style="color: #343A40;">Peer-reviewed journals</h2>
+<div class="three">
+  <h3>Peer-reviewed journals</h3>
+</div>
+
+<!-- <h2 style="color: #343A40;">Peer-reviewed journals</h2> -->
 
 <h3 id="2024" style="color: #343A40;">2024</h3>
 
@@ -112,7 +116,10 @@ e-Print: <a href="https://arxiv.org/abs/2207.05347">2207.05347 [quant-ph]</a> <b
 
 &nbsp;
 
-<h2 style="color: #343A40;">Pre-prints under review</h2>
+<div class="three">
+  <h3>Pre-prints under review</h3>
+</div>
+<!-- <h2 style="color: #343A40;">Pre-prints under review</h2> -->
 
 <h3 id="2024_pre" style="color: #343A40;">2024</h3>
 
@@ -128,7 +135,7 @@ e-Print: <a href="https://arxiv.org/abs/2403.03584">2403.03584 [quant-ph]</a> </
 
 <h3 id="2023_pre" style="color: #343A40;">2023</h3>
 
-Quantum chaos in $\mathcal{PT}$-symmetric Quantum Kicked Rotor<br>
+Quantum chaos in PT-symmetric Quantum Kicked Rotor<br>
 <small> Kshitij Sharma, <span style="color: #800020 !important;">Himanshu Sahu</span>, Subroto Mukerjee (Jan 14, 2024)<br>
 e-Print: <a href="https://arxiv.org/abs/2401.07215">2401.07215 [quant-ph]</a> <br>
 </small>

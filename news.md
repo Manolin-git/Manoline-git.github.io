@@ -5,10 +5,6 @@ order: 1
 permalink: /news/
 ---
 
-<head>
-  <link rel="stylesheet" href="/Manoline-git.github.io/css/main.css" />
-</head>
-
 &nbsp;
 
 <div class="post-list">

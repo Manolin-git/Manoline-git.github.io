@@ -20,12 +20,18 @@ My research is based on two broad areas ---
 
 & sometimes on their intersection.
 
-<h3> Quantum scrambling </h3>
+<div class="three">
+  <h3>Quantum scrambling</h3>
+</div>
 
 We study how the many-body interactions lead to scrambling of initially localized information.
 
+<img src="/Manoline-git.github.io/img/scrambling.svg" alt="SVG Image" width="750">
+
 &nbsp;
 
-<h3>Quantum-walks </h3>
+<div class="three">
+  <h3>Quantum walks</h3>
+</div>
 
 We use quantum-walks to develop quantum algorithms and simulations.
