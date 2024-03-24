@@ -20,9 +20,7 @@ My research is based on two broad areas ---
 
 & sometimes on their intersection.
 
-<div class="three">
-  <h3>Quantum scrambling</h3>
-</div>
+<h2>Quantum Scrambling</h2>
 
 We study how the many-body interactions lead to scrambling of initially localized information.
 
@@ -30,8 +28,6 @@ We study how the many-body interactions lead to scrambling of initially localize
 
 &nbsp;
 
-<div class="three">
-  <h3>Quantum walks</h3>
-</div>
+<h2>Quantum walks</h2>
 
 We use quantum-walks to develop quantum algorithms and simulations.

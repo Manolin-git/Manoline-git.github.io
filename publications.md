@@ -13,11 +13,7 @@ Publications are listed in reverse chronological order. Preprints are eventually
 
 &nbsp;
 
-<div class="three">
-  <h3>Peer-reviewed journals</h3>
-</div>
-
-<!-- <h2 style="color: #343A40;">Peer-reviewed journals</h2> -->
+<h2 style="color: #343A40;">Peer-reviewed journals</h2>
 
 <h3 id="2024" style="color: #343A40;">2024</h3>
 
@@ -116,10 +112,7 @@ e-Print: <a href="https://arxiv.org/abs/2207.05347">2207.05347 [quant-ph]</a> <b
 
 &nbsp;
 
-<div class="three">
-  <h3>Pre-prints under review</h3>
-</div>
-<!-- <h2 style="color: #343A40;">Pre-prints under review</h2> -->
+<h2 style="color: #343A40;">Pre-prints under review</h2>
 
 <h3 id="2024_pre" style="color: #343A40;">2024</h3>
 
