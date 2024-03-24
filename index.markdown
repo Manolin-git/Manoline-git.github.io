@@ -33,7 +33,3 @@ layout: home
 </div>
 
 &nbsp;
-
-{% twitter https://twitter.com/Himansh59335370 maxwidth=500 limit=5 %}
-
-&nbsp;
