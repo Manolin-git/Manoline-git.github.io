@@ -313,3 +313,107 @@ h3 {
     opacity: 0;
   }
 }
+
+.trigger {
+  font-family: "Comfortaa";
+  text-align: center; /* Align the content to the center */
+}
+
+.trigger * {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-transition: all 0.35s ease;
+  transition: all 0.35s ease;
+}
+
+.trigger li {
+  display: inline;
+  list-style: outside none none;
+  margin: 0 0.7em; /* Remove default margin */
+  padding: 0;
+}
+
+.trigger a {
+  display: inline-block;
+  padding: 0.2em 17px;
+  color: #6c757d;
+  position: relative;
+  letter-spacing: 2px;
+  text-decoration: none;
+}
+
+.trigger a:before {
+  left: 20%;
+  right: 20%;
+  top: 50%;
+  content: "";
+  border-left: 12px solid #9b59b6;
+  border-right: 12px solid #9b59b6;
+  -webkit-transform: translateY(-50%);
+  transform: translateY(-50%);
+  height: 3px;
+  opacity: 0;
+  position: absolute;
+  -webkit-transition: all 0.35s ease;
+  transition: all 0.35s ease;
+}
+
+.trigger a:hover,
+.trigger .current a {
+  color: #212529;
+}
+
+.trigger a:hover:before,
+.trigger .current a:before {
+  left: 0;
+  right: 0;
+  opacity: 1;
+}
+
+.site-title * {
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+  -webkit-transition: all 0.35s ease;
+  transition: all 0.35s ease;
+}
+
+.site-title li {
+  display: inline-block;
+  list-style: outside none none;
+  margin: 0 0em;
+  padding: 0;
+}
+
+.site-title a {
+  display: inline-block;
+  padding: 0.2em 17px;
+  color: #6c757d;
+  position: relative;
+  letter-spacing: 1px;
+  text-decoration: none;
+}
+.site-title a:before {
+  left: 20%;
+  right: 20%;
+  top: 50%;
+  content: "";
+  border-left: 12px solid #9b59b6;
+  border-right: 12px solid #9b59b6;
+  -webkit-transform: translateY(-50%);
+  transform: translateY(-50%);
+  height: 3px;
+  opacity: 0;
+  position: absolute;
+  -webkit-transition: all 0.35s ease;
+  transition: all 0.35s ease;
+}
+.site-title a:hover,
+.site-title .current a {
+  color: #212529;
+}
+.site-title a:hover:before,
+.site-title .current a:before {
+  left: 0;
+  right: 0;
+  opacity: 1;
+}

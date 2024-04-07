@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.5.13)  13 MAR 2024 23:52
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023) (preloaded format=pdflatex 2023.5.13)  7 APR 2024 14:56
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -966,23 +966,23 @@ Underfull \hbox (badness 10000) in paragraph at lines 90--90
  []
 
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <9> on input line 120.
+(Font)              <9> on input line 124.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 120.
+(Font)              <6> on input line 124.
 [1
 
 {c:/texlive/2023/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] [2] [3]
 [4] [5]
 LaTeX Font Info:    Trying to load font information for U+fontawesomefree1 on i
-nput line 421.
+nput line 419.
  (c:/texlive/2023/texmf-dist/tex/latex/fontawesome5/ufontawesomefree1.fd)
 LaTeX Font Info:    Trying to load font information for U+fontawesomebrands0 on
- input line 421.
+ input line 419.
  (c:/texlive/2023/texmf-dist/tex/latex/fontawesome5/ufontawesomebrands0.fd)
 LaTeX Font Info:    Font shape `U/fontawesomebrands0/solid/n' in size <9> not a
 vailable
 (Font)              Font shape `U/fontawesomebrands0/regular/n' tried instead o
-n input line 421.
+n input line 419.
 
 [6{c:/texlive/2023/texmf-dist/fonts/enc/dvips/fontawesome5/fa5free1.enc}{c:/tex
 live/2023/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}{c:/texlive/2023
@@ -996,11 +996,11 @@ Package rerunfilecheck Info: File `"Curriculum Vitae".out' has not changed.
 (rerunfilecheck)             Checksum: 774D5F35EE4066EFBD89C6B733D22FBA;4000.
  ) 
 Here is how much of TeX's memory you used:
- 26803 strings out of 476047
- 513406 string characters out of 5794047
- 1883993 words of memory out of 5000000
+ 26795 strings out of 476047
+ 513346 string characters out of 5794047
+ 1885993 words of memory out of 5000000
  46617 multiletter control sequences out of 15000+600000
- 525625 words of font info for 131 fonts, out of 8000000 for 9000
+ 525357 words of font info for 127 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  129i,13n,122p,1637b,560s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2023/texmf-dist/fonts/type1/public/fontawesome5/FontAwesome5Brand
@@ -1018,10 +1018,10 @@ fonts/cm/cmssi10.pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm
 .pfb><c:/texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c:/
 texlive/2023/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy9.pfb><c:/texlive/20
 23/texmf-dist/fonts/type1/public/cm-super/sfsl1000.pfb>
-Output written on "Curriculum Vitae.pdf" (6 pages, 188626 bytes).
+Output written on "Curriculum Vitae.pdf" (6 pages, 187618 bytes).
 PDF statistics:
- 293 PDF objects out of 1000 (max. 8388607)
- 249 compressed objects within 3 object streams
+ 291 PDF objects out of 1000 (max. 8388607)
+ 247 compressed objects within 3 object streams
  36 named destinations out of 1000 (max. 500000)
  43253 words of extra memory for PDF output out of 51595 (max. 10000000)
 

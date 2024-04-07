@@ -15,10 +15,12 @@ layout: default
   </h2>
   <ul class="post-list">
     {%- for post in site.posts -%}
-    <li>
+    <li style="margin-bottom: 1px !important">
       {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y"
       -%}
+      <!-- This adds a date to each post -->
       <span class="post-meta">{{ post.date | date: date_format }}</span>
+      <!-- This adds a post name -->
       <h4>
         <a
           class="post-link"
