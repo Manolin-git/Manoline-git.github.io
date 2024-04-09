@@ -117,16 +117,16 @@ h6 {
  * Links
  */
 a {
-  color: $brand-color;
+  color: $link-color; //$text-color;
   text-decoration: none;
 
   &:visited {
-    color: darken($brand-color, 15%);
+    color: darken($link-color, 15%);
   }
 
   &:hover {
-    color: $text-color;
-    text-decoration: underline;
+    color: $link-color;
+    text-decoration: none;
   }
 
   .social-media-list &:hover {

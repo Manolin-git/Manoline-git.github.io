@@ -13,12 +13,56 @@ Hi there! I am an MS in Physical and Mathematical Science at Division of Physica
 
 </div> <br>
 
-Detailed Curriculum Vit&aelig; : <a href="/Manoline-git.github.io/CV/Curriculum Vitae.pdf" target="_blank" rel="noopener noreferrer">
-<i class="fa-solid fa-file"></i> <small> PDF </small>
+<h2> Timeline </h2> <br>
+
+<div class="container-fluid">
+            <ul class="timeline">
+                <li class="timeline-item">
+                    <div class="timeline-info">
+                        <span>March, 2024-Present</span>
+                    </div>
+                    <div class="timeline-marker"></div>
+                    <div class="timeline-content">
+                        <h3 class="timeline-title">Quantum Intern @ IBM Research Lab</h3>
+                        <p>To be updated.</p>
+                    </div>
+                </li>
+                <li class="timeline-item">
+                    <div class="timeline-info">
+                        <span>Aug, 2021-Present</span>
+                    </div>
+                    <div class="timeline-marker"></div>
+                    <div class="timeline-content">
+                        <h3 class="timeline-title">MS in Physics @ Indian Institute of Science</h3>
+                        <p>To be updated</p>
+                    </div>
+                </li>
+                    <li class="timeline-item">
+                    <div class="timeline-info">
+                        <span>2018-2023</span>
+                    </div>
+                    <div class="timeline-marker-expire"></div>
+                    <div class="timeline-content">
+                        <h3 class="timeline-title">Bachelor in Physics @ Banaras Hindu University</h3>
+                        <p>To be updated</p>
+                    </div>
+                </li>
+                <li class="timeline-item period">
+                    <div class="timeline-info"></div>
+                    <div class="timeline-marker"></div>
+                    <!-- <div class="timeline-content">
+                        <h2 class="timeline-title">April 2016</h2>
+                    </div> -->
+                </li>
+            </ul>
+</div>
 
 &nbsp;
 
-<h3>Education</h3>
+Detailed Curriculum Vit&aelig; : <a href="/Manoline-git.github.io/CV/Curriculum Vitae.pdf" target="_blank" rel="noopener noreferrer">
+<i class="fa-solid fa-file"></i> <small> PDF </small>
+
+<!-- <h3>Education</h3>
 
 <div style="display: flex;">
   <div style="flex-basis: 25%;">07/2023 - Present <br>
@@ -27,7 +71,7 @@ Detailed Curriculum Vit&aelig; : <a href="/Manoline-git.github.io/CV/Curriculum 
   <div style="flex-basis: 75%;">Masters in Physics, Indian Institute of Science, Bangalore, India.<br>
   Bachelors in Physics, Banaras Hindu University, Varanasi, India.
   </div>
-</div>
+</div> -->
 
 &nbsp;
 

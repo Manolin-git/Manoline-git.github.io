@@ -14,6 +14,7 @@ $spacing-unit: 30px !default;
 $text-color: #6c757d !default;
 $background-color: #fdfdfd !default;
 $brand-color: #2a7ae2 !default;
+$link-color: #2274a5;
 
 $grey-color: #828282 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
@@ -46,3 +47,176 @@ $on-laptop: 900px !default;
 
 // Import partials.
 @import "minima/base", "minima/layout", "minima/syntax-highlighting";
+
+$primary-color: #ff6b6b;
+$primary-color-hover: scale-color($primary-color, $lightness: 32%);
+
+.container-fluid {
+  .row {
+    padding: 0 0 4em 0;
+    &:nth-child(even) {
+      background: #f1f4f5;
+    }
+  }
+}
+
+.timeline {
+  line-height: 1.4em;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6 {
+    line-height: inherit;
+    font-family: Comfortaa;
+  }
+}
+
+/*----- TIMELINE ITEM -----*/
+
+.timeline-item {
+  padding-left: 40px;
+  position: relative;
+  &:last-child {
+    padding-bottom: 0;
+  }
+}
+
+/*----- TIMELINE INFO -----*/
+
+.timeline-info {
+  font-family: Comfortaa;
+  font-size: 12px;
+  font-weight: normal;
+  letter-spacing: 3px;
+  margin: 0 0 0.5em 0;
+  text-transform: uppercase;
+  white-space: nowrap;
+}
+/*----- TIMELINE MARKER -----*/
+
+.timeline-marker {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 10px;
+  &:before {
+    background: #76c893;
+    border: 3px solid transparent;
+    border-radius: 100%;
+    content: "";
+    display: block;
+    height: 15px;
+    position: absolute;
+    top: 4px;
+    left: 0;
+    width: 15px;
+    transition: background 0.3s ease-in-out, border 0.3s ease-in-out;
+  }
+  &:after {
+    content: "";
+    width: 3px;
+    background: #ccd5db;
+    display: block;
+    position: absolute;
+    top: 28px;
+    bottom: 0;
+    left: 9px;
+  }
+  .timeline-item:last-child &:after {
+    content: none;
+  }
+}
+.timeline-item:not(.period):hover .timeline-marker:before {
+  background: transparent;
+  border: 3px solid #76c893;
+}
+
+.timeline-marker-expire {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  width: 10px;
+  &:before {
+    background: $primary-color;
+    border: 3px solid transparent;
+    border-radius: 100%;
+    content: "";
+    display: block;
+    height: 15px;
+    position: absolute;
+    top: 4px;
+    left: 0;
+    width: 15px;
+    transition: background 0.3s ease-in-out, border 0.3s ease-in-out;
+  }
+  &:after {
+    content: "";
+    width: 3px;
+    background: #ccd5db;
+    display: block;
+    position: absolute;
+    top: 28px;
+    bottom: 0;
+    left: 9px;
+  }
+  .timeline-item:last-child &:after {
+    content: none;
+  }
+}
+.timeline-item:not(.period):hover .timeline-marker-expire:before {
+  background: transparent;
+  border: 3px solid $primary-color;
+}
+
+/*----- TIMELINE CONTENT -----*/
+
+.timeline-content {
+  padding-bottom: 40px;
+  p:last-child {
+    margin-bottom: 0;
+  }
+}
+
+/*----- TIMELINE PERIOD -----*/
+
+.period {
+  padding: 0;
+  .timeline-info {
+    display: none;
+  }
+  .timeline-marker {
+    &:before {
+      background: transparent;
+      content: "";
+      width: 15px;
+      height: auto;
+      border: none;
+      border-radius: 0;
+      top: 0;
+      left: 3px;
+      bottom: 30px;
+      position: absolute;
+      border-top: 3px solid #ccd5db;
+      border-bottom: 1px solid #ccd5db;
+    }
+    &:after {
+      content: "";
+      height: 32px;
+      top: auto;
+    }
+  }
+  .timeline-content {
+    padding: 40px 0 70px;
+  }
+  .timeline-title {
+    margin: 0;
+  }
+}

@@ -2,10 +2,6 @@
 layout: default
 ---
 
-<head>
-  <link rel="stylesheet" href="/Manoline-git.github.io/css/main.css" />
-</head>
-
 <div class="home">
   {%- if page.title -%}
   <h1 class="page-heading">{{ page.title }}</h1>
@@ -22,13 +18,15 @@ layout: default
       <span class="post-meta">{{ post.date | date: date_format }}</span>
       <!-- This adds a post name -->
       <h4>
-        <a
-          class="post-link"
-          href="{{ post.url | relative_url }}"
-          style="font-size: 18px !important"
-        >
-          {{ post.title | escape }}
-        </a>
+        <div class="effect-one">
+          <a
+            class="post-link"
+            href="{{ post.url | relative_url }}"
+            style="font-size: 18px !important"
+          >
+            {{ post.title | escape }}
+          </a>
+        </div>
       </h4>
       {%- if site.show_excerpts -%} {{ post.excerpt }} {%- endif -%}
     </li>
