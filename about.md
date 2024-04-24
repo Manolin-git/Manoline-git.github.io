@@ -24,7 +24,7 @@ Hi there! I am an MS in Physical and Mathematical Science at Division of Physica
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
                         <h3 class="timeline-title">Quantum Intern @ IBM Research Lab</h3>
-                        <p>To be updated.</p>
+                        <!-- <p>To be updated.</p> -->
                     </div>
                 </li>
                 <li class="timeline-item">
@@ -34,7 +34,7 @@ Hi there! I am an MS in Physical and Mathematical Science at Division of Physica
                     <div class="timeline-marker"></div>
                     <div class="timeline-content">
                         <h3 class="timeline-title">MS in Physics @ Indian Institute of Science</h3>
-                        <p>To be updated</p>
+                        <!-- <p>To be updated</p> -->
                     </div>
                 </li>
                     <li class="timeline-item">
@@ -44,7 +44,7 @@ Hi there! I am an MS in Physical and Mathematical Science at Division of Physica
                     <div class="timeline-marker-expire"></div>
                     <div class="timeline-content">
                         <h3 class="timeline-title">Bachelor in Physics @ Banaras Hindu University</h3>
-                        <p>To be updated</p>
+                        <!-- <p>To be updated</p> -->
                     </div>
                 </li>
                 <li class="timeline-item period">
