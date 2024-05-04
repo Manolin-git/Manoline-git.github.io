@@ -2,6 +2,41 @@
 layout: home
 ---
 
+<style>
+
+</style>
+
+
+<script>
+gsap.registerPlugin(ScrollTrigger);
+
+const textElements = gsap.utils.toArray('.text');
+
+textElements.forEach(text => {
+  gsap.to(text, {
+    backgroundSize: '100%',
+    ease: 'none',
+    scrollTrigger: {
+      trigger: text,
+      start: 'center 80%',
+      end: 'center 20%',
+      scrub: true,
+    },
+  });
+});
+
+</script>
+
+
+<h1 class="text">Hi there!<span>I'm Himanshu</span></h1>
+<h1 class="text">I'm a Physicist.<span>Exploring the ideas</span></h1>
+<h1 class="text">@ the &cap; between<span>quantum many-body</span></h1>
+<h1 class="text">quantum-computing<span>& information theory.</span></h1>
+<h1 class="text">To know more<span><a style = "color: #001219 !important;" href="/Manoline-git.github.io/about/">Click Here</a></span></h1>
+
+
+<!-- <a href="https://stacksorted.com/text-effects/minh-pham" target="_blank">SOURCE</a> -->
+
 <!-- <div id="sentence-wrapper">
                 <h5 class="sentence">
                     <span>I transform</span>
@@ -20,6 +55,9 @@ layout: home
 
 &nbsp; -->
 
+
+<!-- 
+
 <div class="image-container">
     <img src="/Manoline-git.github.io/img/img.jpg" alt="Image" />
     <p class="text-content">
@@ -29,4 +67,4 @@ layout: home
     </p>
 </div>
 
-&nbsp;
+&nbsp; -->
