@@ -19,9 +19,18 @@ permalink: /blog/
           <a
             href="/Manoline-git.github.io/blogs/Peter_Camenzind.html"
             style="font-size: 18px !important"
-          >
-            On Peter Camenzind - Novel by Hermann Hesse
-          </a>
+          >On Peter Camenzind - Novel by Hermann Hesse</a>
+        </div>
+      </h3>
+    </li>
+        <li>
+      <span class="post-meta">2024-05-07</span>
+      <h3>
+        <div class="effect-seven">
+          <a
+            href="/Manoline-git.github.io/blogs/Cats_Universe.html"
+            style="font-size: 18px !important"
+          >Cat's Universe</a>
         </div>
       </h3>
     </li>
