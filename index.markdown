@@ -3,7 +3,9 @@ layout: home
 ---
 
 <script>
-gsap.registerPlugin(ScrollTrigger);
+    // use a script tag or an external JS file
+    document.addEventListener("DOMContentLoaded", (event) => {
+        gsap.registerPlugin(ScrollTrigger);
 
 const textElements = gsap.utils.toArray('.text');
 
@@ -19,15 +21,16 @@ textElements.forEach(text => {
     },
   });
 });
-
-</script>
+    });
+   
+ </script>
 
 
 <h1 class="text">Hi there!<span>I'm Himanshu</span></h1>
-<h1 class="text">I'm a Physicist.<span>Exploring the ideas</span></h1>
-<h1 class="text">@ the &cap; between<span>quantum many-body</span></h1>
-<h1 class="text">quantum-computing<span>& information theory.</span></h1>
-<h1 class="text">to know more<span><a style = "color: #fdfdfd !important;" href="/Manoline-git.github.io/about/">click here</a></span></h1>
+<h1 class="text">I'm a Physicist.<span><a style = "color: #fdfdfd !important;" href = "/Manoline-git.github.io/about/">broadly speaking!</a></span></h1>
+<h1 class="text"> My research lie @ &cap; of <span><a style = "color: #fdfdfd !important;" href="/Manoline-git.github.io/research/">more specifically?</a></span></h1>
+<h1 class="text">quantum many-body,<span>quantum-computing,</span></h1>
+<h1 class="text">& information theory.<span><a style = "color: #fdfdfd !important;" href = "/Manoline-git.github.io/contact/">Let's connect!</a></span></h1>
 
 
 <!-- <a href="https://stacksorted.com/text-effects/minh-pham" target="_blank">SOURCE</a> -->
