@@ -494,7 +494,8 @@ span {
 }
 
 .text:hover {
-  color: rgb(0,0,0,0)
+  color: rgb(0,0,0,0);
+  background: linear-gradient(to right, rgb(0,0,0,0) , rgb(0,0,0,0)) no-repeat;
 }
 
 a {
