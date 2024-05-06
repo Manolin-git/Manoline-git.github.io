@@ -2,11 +2,6 @@
 layout: home
 ---
 
-<style>
-
-</style>
-
-
 <script>
 gsap.registerPlugin(ScrollTrigger);
 
@@ -32,7 +27,7 @@ textElements.forEach(text => {
 <h1 class="text">I'm a Physicist.<span>Exploring the ideas</span></h1>
 <h1 class="text">@ the &cap; between<span>quantum many-body</span></h1>
 <h1 class="text">quantum-computing<span>& information theory.</span></h1>
-<h1 class="text">To know more<span><a style = "color: #001219 !important;" href="/Manoline-git.github.io/about/">Click Here</a></span></h1>
+<h1 class="text">to know more<span><a style = "color: #fdfdfd !important;" href="/Manoline-git.github.io/about/">click here</a></span></h1>
 
 
 <!-- <a href="https://stacksorted.com/text-effects/minh-pham" target="_blank">SOURCE</a> -->

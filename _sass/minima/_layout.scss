@@ -175,6 +175,15 @@
   flex: 1;
 }
 
+
+.page-content-def {
+  width: $page-width;
+  padding: $page-pad-height $page-pad-width;
+  flex: 1;
+}
+
+
+
 .page-heading {
   @include relative-font-size(2);
 }
