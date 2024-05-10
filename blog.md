@@ -90,13 +90,13 @@ body {
 	margin-top: -5.5vw;
 }
 
-/* div.overlay-blue {
+div.overlay-blue {
 	width: 100%;
 	height: 100%;
 	position: absolute;
 	top: 0;
 	transition: 0.5s ease all;
-} */
+}
 
 /* div.overlay-blue:hover {
 	background-color: rgba(206, 212, 218, 0.5); 
