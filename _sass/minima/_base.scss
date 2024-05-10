@@ -57,7 +57,7 @@ ol,
 dl,
 figure,
 %vertical-rhythm {
-  margin-bottom: $spacing-unit / 2;
+  margin-bottom: $spacing-unit * 0.5;
 }
 
 /**
@@ -144,7 +144,7 @@ a {
 blockquote {
   color: $grey-color;
   border-left: 4px solid $grey-color-light;
-  padding-left: $spacing-unit / 2;
+  padding-left: $spacing-unit * 0.5;
   @include relative-font-size(1.125);
   letter-spacing: -1px;
   font-style: italic;
@@ -183,44 +183,49 @@ pre {
 /**
  * Wrapper
  */
+
 .wrapper {
   max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit} * 2));
   max-width: calc(#{$content-width} - (#{$spacing-unit} * 2));
   margin-right: auto;
   margin-left: auto;
-  padding-right: $spacing-unit;
-  padding-left: $spacing-unit;
+  padding-right: 0; // $spacing-unit;
+  padding-left: 0; // $spacing-unit;
   @extend %clearfix;
 
   @include media-query($on-laptop) {
     max-width: -webkit-calc(#{$content-width} - (#{$spacing-unit}));
     max-width: calc(#{$content-width} - (#{$spacing-unit}));
-    padding-right: $spacing-unit / 2;
-    padding-left: $spacing-unit / 2;
+    padding-right: $spacing-unit * 0.5;
+    padding-left: $spacing-unit * 0.5;
   }
 }
-
 
 // For default.html wrapper modified
 
-.wrapper-def {
-  max-width: -webkit-calc(#{$page-width} - (#{$spacing-unit} * 2));
-  max-width: calc(#{$page-width} - (#{$spacing-unit} * 2));
-  margin-right: auto;
-  margin-left: auto;
-  padding-right: $spacing-unit;
-  padding-left: $spacing-unit;
-  @extend %clearfix;
-
-  @include media-query($on-laptop) {
-    max-width: -webkit-calc(#{$page-width} - (#{$spacing-unit}));
-    max-width: calc(#{$page-width} - (#{$spacing-unit}));
-    padding-right: $spacing-unit / 2;
-    padding-left: $spacing-unit / 2;
-  }
+.page-content-def {
+  width: $page-width;
+  padding: $page-pad-height $page-pad-width;
+  flex: 1;
+  margin: 0 auto;
 }
 
 
+.wrapper-def {
+  max-width: $page-width;
+  // max-width: -webkit-calc(#{$page-width} - (#{$spacing-unit} * 2));
+  // max-width: calc(#{$page-width} - (#{$spacing-unit} * 2));
+  margin: 0 auto;
+  padding: 0;
+  // padding-right: 0; // $spacing-unit;
+  // padding-left: $spacing-unit;
+  @extend %clearfix;
+
+  @include media-query($on-laptop) {
+    max-width: $page-width;
+    padding: 0;
+  }
+}
 
 /**
  * Clearfix
@@ -267,7 +272,7 @@ table {
   }
   th,
   td {
-    padding: ($spacing-unit / 3) ($spacing-unit / 2);
+    padding: calc(#{$spacing-unit} / 3) ($spacing-unit * 0.5);
   }
   th {
     background-color: lighten($grey-color-light, 3%);

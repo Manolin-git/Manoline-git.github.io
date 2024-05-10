@@ -25,9 +25,8 @@ $table-text-align: left !default;
 // Width of the content area
 $content-width: 90% !default; //1000px !default;
 
-
 // settings for the default page
-$page-width: 80% !default;
+$page-width: 75% !default;
 $page-pad-width: 0.1 * $page-width !default; //100px !default;
 $page-pad-height: 30px !default;
 
@@ -227,4 +226,3 @@ $primary-color-hover: scale-color($primary-color, $lightness: 32%);
     margin: 0;
   }
 }
-
