@@ -17,8 +17,18 @@ Publications are listed in reverse chronological order. Preprints are eventually
 
 <h3 id="2024" style="color: #343A40;">2024</h3>
 
+Speed limits to the growth of Krylov complexity in open quantum systems `To be appear as a letter in Phys. Rev. D`<br>
+<small>Aranya Bhattacharya, Pingal Pratyush Nath, Himanshu Sahu (Mar 06, 2024)<br>
+e-Print: <a href="https://arxiv.org/abs/2403.03584">2403.03584 [quant-ph]</a> </small> <br>
+<a href="https://arxiv.org/pdf/2403.03584.pdf" target="_blank" rel="noopener noreferrer">
+<i class="fa-solid fa-file-pdf"></i> <small>View PDF</small>
+</a> &nbsp; &nbsp; &nbsp;
+<a href="/Manoline-git.github.io/bib/Bhattacharya2024uxx.txt" target="_blank" rel="noopener noreferrer">
+<i class="fa-solid fa-quote-left"></i> <small>cite</small>
+</a> &nbsp; &nbsp; &nbsp;
+
 Krylov complexity for non-local spin chains <sup>&dagger;</sup><br>
-<small>Aranya Bhattacharya, Pingal Pratyush Nath, <span style="color: #800020 !important;">Himanshu Sahu</span> (Dec 18, 2023)<br>
+<small>Aranya Bhattacharya, Pingal Pratyush Nath, Himanshu Sahu (Dec 18, 2023)<br>
 Published in: Phys. Rev. D 109 (2024), 066010 <br>
 e-Print: <a href="https://arxiv.org/abs/2312.11677">2312.11677 [quant-ph]</a> </small> <br>
 <a href="https://arxiv.org/pdf/2312.11677.pdf" target="_blank" rel="noopener noreferrer">
@@ -32,7 +42,7 @@ e-Print: <a href="https://arxiv.org/abs/2312.11677">2312.11677 [quant-ph]</a> </
 </a>
 
 Complexity for one-dimensional Discrete Time Quantum Walk Circuits <br>
-<small>Aranya Bhattacharya, <span style="color: #800020 !important;">Himanshu Sahu</span>, Ahmadullah Zahed, Kallol Sen (Jul 25, 2023) <br>
+<small>Aranya Bhattacharya, Himanshu Sahu, Ahmadullah Zahed, Kallol Sen (Jul 25, 2023) <br>
 Published in: Phys. Rev. A 109 (2024) 2, 022223 <br>
 e-Print: <a href="https://arxiv.org/abs/2307.13450">2307.13450 [quant-ph]</a> <br>
 </small>
@@ -47,7 +57,7 @@ e-Print: <a href="https://arxiv.org/abs/2307.13450">2307.13450 [quant-ph]</a> <b
 </a>
 
 Quantum-walk search in motion <br>
-<small><span style="color: #800020 !important;">Himanshu Sahu</span>, Kallol Sen (Oct 22, 2023) <br>
+<small>Himanshu Sahu, Kallol Sen (Oct 22, 2023) <br>
 Published in: Sci. Rep. 14 (2024) 1, 2815 <br>
 e-Print: <a href="https://arxiv.org/abs/2310.14345">2310.14345 [quant-ph]</a> <br>
 </small>
@@ -62,7 +72,7 @@ e-Print: <a href="https://arxiv.org/abs/2310.14345">2310.14345 [quant-ph]</a> <b
 </a>
 
 Open system approach to Neutrino oscillations in a quantum walk framework <br>
-<small><span style="color: #800020 !important;">Himanshu Sahu</span>, C.M. Chandrashekar (May 23, 2023) <br>
+<small>Himanshu Sahu, C.M. Chandrashekar (May 23, 2023) <br>
 Published in: Quantum Information Processing 23, 7 (2024) <br>
 e-Print: <a href="https://arxiv.org/abs/2305.13923">2305.13923 [quant-ph]</a> <br>
 </small>
@@ -79,7 +89,7 @@ e-Print: <a href="https://arxiv.org/abs/2305.13923">2305.13923 [quant-ph]</a> <b
 <h3 id="2023" style="color: #343A40;">2023</h3>
 
 On Krylov complexity in open systems: an approach via bi-Lanczos algorithm <sup>&dagger;</sup><br>
-<small> Aranya Bhattacharya, Pratik Nandy, Pingal Pratyush Nath, <span style="color: #800020 !important;">Himanshu Sahu</span> (Mar 7, 2023) <br>
+<small> Aranya Bhattacharya, Pratik Nandy, Pingal Pratyush Nath, Himanshu Sahu (Mar 7, 2023) <br>
 Published in: JHEP 12 (2023) 066 <br>
 e-Print: <a href="https://arxiv.org/abs/2303.04175">2303.04175 [quant-ph]</a> <br>
 </small>
@@ -96,7 +106,7 @@ e-Print: <a href="https://arxiv.org/abs/2303.04175">2303.04175 [quant-ph]</a> <b
 <h3 id="2022" style="color: #343A40;">2022</h3>
 
 Operator growth and Krylov construction in dissipative open quantum systems <sup>&dagger;</sup><br>
-<small> Aranya Bhattacharya, Pratik Nandy, Pingal Pratyush Nath, <span style="color: #800020 !important;">Himanshu Sahu</span> (Jul 12, 2022) <br>
+<small> Aranya Bhattacharya, Pratik Nandy, Pingal Pratyush Nath, Himanshu Sahu (Jul 12, 2022) <br>
 Published in: J. High Energ. Phys. 2022, 81 (2022) <br>
 e-Print: <a href="https://arxiv.org/abs/2207.05347">2207.05347 [quant-ph]</a> <br>
 </small>
@@ -116,20 +126,11 @@ e-Print: <a href="https://arxiv.org/abs/2207.05347">2207.05347 [quant-ph]</a> <b
 
 <h3 id="2024_pre" style="color: #343A40;">2024</h3>
 
-Speed limits to the growth of Krylov complexity in open quantum systems<br>
-<small>Aranya Bhattacharya, Pingal Pratyush Nath, <span style="color: #800020 !important;">Himanshu Sahu</span> (Mar 06, 2024)<br>
-e-Print: <a href="https://arxiv.org/abs/2403.03584">2403.03584 [quant-ph]</a> </small> <br>
-<a href="https://arxiv.org/pdf/2403.03584.pdf" target="_blank" rel="noopener noreferrer">
-<i class="fa-solid fa-file-pdf"></i> <small>View PDF</small>
-</a> &nbsp; &nbsp; &nbsp;
-<a href="/Manoline-git.github.io/bib/Bhattacharya2024uxx.txt" target="_blank" rel="noopener noreferrer">
-<i class="fa-solid fa-quote-left"></i> <small>cite</small>
-</a> &nbsp; &nbsp; &nbsp;
 
 <h3 id="2023_pre" style="color: #343A40;">2023</h3>
 
 Quantum chaos in PT-symmetric Quantum Kicked Rotor<br>
-<small> Kshitij Sharma, <span style="color: #800020 !important;">Himanshu Sahu</span>, Subroto Mukerjee (Jan 14, 2024)<br>
+<small> Kshitij Sharma, Himanshu Sahu, Subroto Mukerjee (Jan 14, 2024)<br>
 e-Print: <a href="https://arxiv.org/abs/2401.07215">2401.07215 [quant-ph]</a> <br>
 </small>
 <a href="https://arxiv.org/pdf/2401.07215.pdf" target="_blank" rel="noopener noreferrer">
