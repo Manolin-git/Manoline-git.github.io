@@ -7,7 +7,7 @@ permalink: /publications/
 
 &nbsp;
 
-<a href="https://scholar.google.com/citations?user=o3SoQjUAAAAJ&hl=en" style="font-size: 16x;"> <i class="fa-brands fa-google-scholar"></i> Google Scholar</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://inspirehep.net/authors/2619981?ui-citation-summary=true" style="font-size: 16px;">iNSPIRE-HEP</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://arxiv.org/search/?query=Himanshu+Sahu&searchtype=author&source=header" style="font-size: 16px;"> <i class="ai ai-arxiv"></i>arXiv</a>
+<a href="https://scholar.google.com/citations?user=o3SoQjUAAAAJ&hl=en" style="font-size: 16x;"> <i class="ai ai-google-scholar"></i> Google Scholar</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://inspirehep.net/authors/2619981?ui-citation-summary=true" style="font-size: 16px;"> <i class="ai ai-inspire"></i> iNSPIRE-HEP</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://arxiv.org/search/?query=Himanshu+Sahu&searchtype=author&source=header" style="font-size: 16px;"> <i class="ai ai-arxiv"></i>arXiv</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href = "https://orcid.org/0000-0002-9522-6592" style="font-size: 16x;"> <i class="ai ai-orcid"></i> ORCiD </a>
 
 Publications are listed in reverse chronological order. Preprints are eventually replaced with their published versions. Free versions of articles are given for publications, when available, and when not, you can request and I will gladly send you a copy.
 
@@ -38,7 +38,7 @@ e-Print: <a href="https://arxiv.org/abs/2312.11677">2312.11677 [quant-ph]</a> </
 <i class="fa-solid fa-quote-left"></i> <small>cite</small>
 </a> &nbsp; &nbsp; &nbsp;
 <a href="https://doi.org/10.1103/PhysRevD.109.066010" target="_blank" rel="noopener noreferrer">
-<i class="fa-solid fa-link"></i> <small>DOI</small>
+<i class="ai ai-doi"></i> <small>DOI</small>
 </a>
 
 Complexity for one-dimensional Discrete Time Quantum Walk Circuits <br>
@@ -53,7 +53,10 @@ e-Print: <a href="https://arxiv.org/abs/2307.13450">2307.13450 [quant-ph]</a> <b
 <i class="fa-solid fa-quote-left"></i> <small>cite</small>
 </a> &nbsp; &nbsp; &nbsp;
 <a href="https://doi.org/10.1103/PhysRevA.109.022223" target="_blank" rel="noopener noreferrer">
-<i class="fa-solid fa-link"></i> <small>DOI</small>
+<i class="ai ai-doi"></i> <small>DOI</small>
+</a> &nbsp; &nbsp; &nbsp;
+<a href="https://doi.org/10.1103/PhysRevA.109.022223" target="_blank" rel="noopener noreferrer">
+<i class="ai ai-closed-access"></i> <small>closed access</small>
 </a>
 
 Quantum-walk search in motion <br>
@@ -68,7 +71,10 @@ e-Print: <a href="https://arxiv.org/abs/2310.14345">2310.14345 [quant-ph]</a> <b
 <i class="fa-solid fa-quote-left"></i> <small>cite</small>
 </a> &nbsp; &nbsp; &nbsp;
 <a href="https://doi.org/10.1038/s41598-024-51709-0" target="_blank" rel="noopener noreferrer">
-<i class="fa-solid fa-link"></i> <small>DOI</small>
+<i class="ai ai-doi"></i> <small>DOI</small>
+</a> &nbsp; &nbsp; &nbsp;
+<a href="https://doi.org/10.1038/s41598-024-51709-0" target="_blank" rel="noopener noreferrer">
+<i class="ai ai-open-access"></i> <small>open access</small>
 </a>
 
 Open system approach to Neutrino oscillations in a quantum walk framework <br>
@@ -83,7 +89,10 @@ e-Print: <a href="https://arxiv.org/abs/2305.13923">2305.13923 [quant-ph]</a> <b
 <i class="fa-solid fa-quote-left"></i> <small>cite</small>
 </a> &nbsp; &nbsp; &nbsp;
 <a href="https://doi.org/10.1007/s11128-023-04222-8" target="_blank" rel="noopener noreferrer">
-<i class="fa-solid fa-link"></i> <small>DOI</small>
+<i class="ai ai-doi"></i> <small>DOI</small>
+</a> &nbsp; &nbsp; &nbsp;
+<a href="https://doi.org/10.1007/s11128-023-04222-8" target="_blank" rel="noopener noreferrer">
+<i class="ai ai-closed-access"></i> <small>closed access</small>
 </a>
 
 <h3 id="2023" style="color: #343A40;">2023</h3>
@@ -100,7 +109,10 @@ e-Print: <a href="https://arxiv.org/abs/2303.04175">2303.04175 [quant-ph]</a> <b
 <i class="fa-solid fa-quote-left"></i> <small>cite</small>
 </a> &nbsp; &nbsp; &nbsp;
 <a href="https://doi.org/10.1007/JHEP12(2023)066" target="_blank" rel="noopener noreferrer">
-<i class="fa-solid fa-link"></i> <small>DOI</small>
+<i class="ai ai-doi"></i> <small>DOI</small>
+</a> &nbsp; &nbsp; &nbsp;
+<a href="https://doi.org/10.1007/JHEP12(2023)066" target="_blank" rel="noopener noreferrer">
+<i class="ai ai-open-access"></i> <small>open access</small>
 </a>
 
 <h3 id="2022" style="color: #343A40;">2022</h3>
@@ -117,7 +129,10 @@ e-Print: <a href="https://arxiv.org/abs/2207.05347">2207.05347 [quant-ph]</a> <b
 <i class="fa-solid fa-quote-left"></i> <small>cite</small>
 </a> &nbsp; &nbsp; &nbsp;
 <a href="https://doi.org/10.1007/JHEP12(2022)081" target="_blank" rel="noopener noreferrer">
-<i class="fa-solid fa-link"></i> <small>DOI</small>
+<i class="ai ai-doi"></i> <small>DOI</small>
+</a> &nbsp; &nbsp; &nbsp;
+<a href="https://doi.org/10.1007/JHEP12(2022)081" target="_blank" rel="noopener noreferrer">
+<i class="ai ai-open-access"></i> <small>open access</small>
 </a>
 
 &nbsp;
