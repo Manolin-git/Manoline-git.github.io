@@ -192,7 +192,7 @@ div.overlay-blue {
 			<div class="slide-title">New paper out in the Physical Review D</div>
 			<div class="slide-text">My paper titled '<a href="https://doi.org/10.1103/PhysRevD.109.066010">Krylov complexity for non-local spin chains</a>' is officially published in the Physics Review D (also available at <a href="https://arxiv.org/abs/2312.11677">arXiv</a>). </div>
 			<div class="slide-more"><a
-            href="/publication/update/2024/03/11/New-paper-out-in-the-Physics-Review-D.html"
+            href="/news/2024-03-11.html"
           >READ MORE</a></div>
 		</div>
   </div>	
@@ -203,7 +203,7 @@ div.overlay-blue {
 			<div class="slide-title">New paper out in the Physical Review A</div>
 			<div class="slide-text">My paper titled '<a href="https://doi.org/10.1103/PhysRevA.109.022223">Complexity for one-dimensional discrete-time quantum walk circuits</a>' is officially published in the Physics Review A (also available at <a href="https://doi.org/10.48550/arXiv.2307.13450">arXiv</a>). </div>
 			<div class="slide-more"><a
-            href="/publication/update/2024/02/20/New-paper-out-in-the-Physics-Review-A!.html"
+            href="/news/2024-02-20.html"
           >READ MORE</a></div>
 	  </div>
   </div>	
@@ -214,7 +214,7 @@ div.overlay-blue {
 			<div class="slide-title">New paper out in the Scientific Reports</div>
 			<div class="slide-text">My paper titled '<a href = "https://www.nature.com/articles/s41598-024-51709-0">Quantum-walk search in motion</a>' is officially published in the Scientific Reports and available in Open acess.</div>
 			<div class="slide-more"><a
-            href="/publication/update/2024/02/02/New-paper-out-in-the-Scientific-Reports!.html"
+            href="/news/2024-02-02.html"
           >READ MORE</a></div>
 	  </div>
   </div>
@@ -225,7 +225,7 @@ div.overlay-blue {
 			<div class="slide-title">New paper out in the Quantum Information Processing</div>
 			<div class="slide-text">My paper titled ''<a href="https://doi.org/10.1007/s11128-023-04222-8">Open system approach to neutrino oscillations in a quantum walk framework</a>' is officially published in the Quantum Information Processing (also available at <a href="https://doi.org/10.48550/arXiv.2305.13923">arXiv</a>).</div>
 			<div class="slide-more"><a
-            href="/publication/update/2024/01/02/New-paper-out-in-the-Quantum-Information-Processing!.html"
+            href="/news/2024-01-02.html"
           >READ MORE</a></div>
 	  </div>
   </div>	
