@@ -2,7 +2,7 @@
 layout: default
 title: Blog
 order: 4
-permalink: /blog/
+# permalink: /blog/
 ---
 
 <style>
@@ -149,31 +149,31 @@ div.overlay-blue {
 }
 </style>
 
-<script src="/manoline-git.github.io/JS/slider.js"></script>
+<script src="/JS/slider.js"></script>
 
 <h2 class="post-list-heading" style="font-size: 24px !important">Blogs</h2>
 
 <div class="slider">
 <div class="slider-wrapper flex">
 	<div class="slide flex">
-		<div class="slide-image slider-link prev"><img src="/manoline-git.github.io/blogs/img/Peter Camenzind.jpg" alt="Book Cover"><div class="overlay"></div></div>
+		<div class="slide-image slider-link prev"><img src="/blogs/img/Peter Camenzind.jpg" alt="Book Cover"><div class="overlay"></div></div>
 		<div class="slide-content">
 			<div class="slide-date">25.04.2024</div>
 			<div class="slide-title">On Peter Camenzind - Novel by Hermann Hesse</div>
 			<div class="slide-text">Recently, I read Hesse's Peter Camenzind -- my fourth read from Hesse. It surely left a quite different impression than some of his other works.. </div>
 			<div class="slide-more"><a
-            href="/manoline-git.github.io/blogs/Peter_Camenzind.html"
+            href="/blogs/Peter_Camenzind.html"
           >READ MORE</a></div>
 		</div>	
 	</div>
 	<div class="slide flex">
-		<div class="slide-image slider-link next"><img src="/manoline-git.github.io/blogs/img/Cat.jpg" alt="Studio Ghibli"><div class="overlay"></div></div>
+		<div class="slide-image slider-link next"><img src="/blogs/img/Cat.jpg" alt="Studio Ghibli"><div class="overlay"></div></div>
 		<div class="slide-content">
 			<div class="slide-date">To be uploaded</div>
 			<div class="slide-title">Cat's Universe</div>
 			<div class="slide-text"> </div>
 			<div class="slide-more"><a
-            href="/manoline-git.github.io/blogs/Cats_Universe.html"
+            href="/blogs/Cats_Universe.html"
           >READ MORE</a></div>
 		</div>	
 	</div>	
@@ -213,7 +213,7 @@ div.overlay-blue {
       <h3>
         <div class="effect-seven">
           <a
-            href="/manoline-git.github.io/blogs/Peter_Camenzind.html"
+            href="/blogs/Peter_Camenzind.html"
             style="font-size: 18px !important"
           >On Peter Camenzind - Novel by Hermann Hesse</a>
         </div>
@@ -224,7 +224,7 @@ div.overlay-blue {
       <h3>
         <div class="effect-seven">
           <a
-            href="/manoline-git.github.io/blogs/Cats_Universe.html"
+            href="//blogs/Cats_Universe.html"
             style="font-size: 18px !important"
           >Cat's Universe</a>
         </div>

@@ -21,8 +21,8 @@
 title: Himanshu
 email: himanshusah1@iisc.ac.in
 description: # "\u00A9 Himanshu Sahu 2024. All rights reserved. The contents of this site reflect my personal perspectives and not those of any other entity." # this means to ignore newlines until "baseurl:"
-baseurl: "/manoline-git.github.io" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://manoline-git.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: manoline-git
 
 # Build settings

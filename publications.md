@@ -23,7 +23,7 @@ e-Print: <a href="https://arxiv.org/abs/2403.03584">2403.03584 [quant-ph]</a> </
 <a href="https://arxiv.org/pdf/2403.03584.pdf" target="_blank" rel="noopener noreferrer">
 <i class="fa-solid fa-file-pdf"></i> <small>View PDF</small>
 </a> &nbsp; &nbsp; &nbsp;
-<a href="/manoline-git.github.io/bib/Bhattacharya2024uxx.txt" target="_blank" rel="noopener noreferrer">
+<a href="/bib/Bhattacharya2024uxx.txt" target="_blank" rel="noopener noreferrer">
 <i class="fa-solid fa-quote-left"></i> <small>cite</small>
 </a> &nbsp; &nbsp; &nbsp;
 
@@ -34,11 +34,14 @@ e-Print: <a href="https://arxiv.org/abs/2312.11677">2312.11677 [quant-ph]</a> </
 <a href="https://arxiv.org/pdf/2312.11677.pdf" target="_blank" rel="noopener noreferrer">
 <i class="fa-solid fa-file-pdf"></i> <small>View PDF</small>
 </a> &nbsp; &nbsp; &nbsp;
-<a href="/manoline-git.github.io/bib/Bhattacharya2023xjx.txt" target="_blank" rel="noopener noreferrer">
+<a href="/bib/Bhattacharya2023xjx.txt" target="_blank" rel="noopener noreferrer">
 <i class="fa-solid fa-quote-left"></i> <small>cite</small>
 </a> &nbsp; &nbsp; &nbsp;
 <a href="https://doi.org/10.1103/PhysRevD.109.066010" target="_blank" rel="noopener noreferrer">
 <i class="ai ai-doi"></i> <small>DOI</small>
+</a> &nbsp; &nbsp; &nbsp;
+<a href="https://doi.org/10.1103/PhysRevD.109.066010" target="_blank" rel="noopener noreferrer">
+<i class="ai ai-closed-access"></i> <small>closed access</small>
 </a>
 
 Complexity for one-dimensional Discrete Time Quantum Walk Circuits <br>
@@ -49,7 +52,7 @@ e-Print: <a href="https://arxiv.org/abs/2307.13450">2307.13450 [quant-ph]</a> <b
 <a href="https://arxiv.org/pdf/2307.13450.pdf" target="_blank" rel="noopener noreferrer">
 <i class="fa-solid fa-file-pdf"></i> <small>View PDF</small>
 </a> &nbsp; &nbsp; &nbsp;
-<a href="/manoline-git.github.io/bib/Bhattacharya2023syx.txt" target="_blank" rel="noopener noreferrer">
+<a href="/bib/Bhattacharya2023syx.txt" target="_blank" rel="noopener noreferrer">
 <i class="fa-solid fa-quote-left"></i> <small>cite</small>
 </a> &nbsp; &nbsp; &nbsp;
 <a href="https://doi.org/10.1103/PhysRevA.109.022223" target="_blank" rel="noopener noreferrer">
@@ -67,7 +70,7 @@ e-Print: <a href="https://arxiv.org/abs/2310.14345">2310.14345 [quant-ph]</a> <b
 <a href="https://arxiv.org/pdf/2310.14345.pdf" target="_blank" rel="noopener noreferrer">
 <i class="fa-solid fa-file-pdf"></i> <small>View PDF</small>
 </a> &nbsp; &nbsp;
-<a href="/manoline-git.github.io/bib/Sahu2023sbf.txt" target="_blank" rel="noopener noreferrer">
+<a href="/bib/Sahu2023sbf.txt" target="_blank" rel="noopener noreferrer">
 <i class="fa-solid fa-quote-left"></i> <small>cite</small>
 </a> &nbsp; &nbsp; &nbsp;
 <a href="https://doi.org/10.1038/s41598-024-51709-0" target="_blank" rel="noopener noreferrer">
@@ -85,7 +88,7 @@ e-Print: <a href="https://arxiv.org/abs/2305.13923">2305.13923 [quant-ph]</a> <b
 <a href="https://arxiv.org/pdf/2305.13923.pdf" target="_blank" rel="noopener noreferrer">
 <i class="fa-solid fa-file-pdf"></i> <small>View PDF</small>
 </a> &nbsp; &nbsp; &nbsp;
-<a href="/manoline-git.github.io/bib/Sahu2023csa.txt" target="_blank" rel="noopener noreferrer">
+<a href="/bib/Sahu2023csa.txt" target="_blank" rel="noopener noreferrer">
 <i class="fa-solid fa-quote-left"></i> <small>cite</small>
 </a> &nbsp; &nbsp; &nbsp;
 <a href="https://doi.org/10.1007/s11128-023-04222-8" target="_blank" rel="noopener noreferrer">
@@ -105,7 +108,7 @@ e-Print: <a href="https://arxiv.org/abs/2303.04175">2303.04175 [quant-ph]</a> <b
 <a href="https://arxiv.org/pdf/2303.04175.pdf" target="_blank" rel="noopener noreferrer">
 <i class="fa-solid fa-file-pdf"></i> <small>View PDF</small>
 </a> &nbsp; &nbsp; &nbsp;
-<a href="/manoline-git.github.io/bib/Bhattacharya2023zqt.txt" target="_blank" rel="noopener noreferrer">
+<a href="//bib/Bhattacharya2023zqt.txt" target="_blank" rel="noopener noreferrer">
 <i class="fa-solid fa-quote-left"></i> <small>cite</small>
 </a> &nbsp; &nbsp; &nbsp;
 <a href="https://doi.org/10.1007/JHEP12(2023)066" target="_blank" rel="noopener noreferrer">
@@ -125,7 +128,7 @@ e-Print: <a href="https://arxiv.org/abs/2207.05347">2207.05347 [quant-ph]</a> <b
 <a href="https://arxiv.org/pdf/2207.05347.pdf" target="_blank" rel="noopener noreferrer">
 <i class="fa-solid fa-file-pdf"></i> <small>View PDF</small>
 </a> &nbsp; &nbsp; &nbsp;
-<a href="/manoline-git.github.io/bib/Bhattacharya2022gbz.txt" target="_blank" rel="noopener noreferrer">
+<a href="/bib/Bhattacharya2022gbz.txt" target="_blank" rel="noopener noreferrer">
 <i class="fa-solid fa-quote-left"></i> <small>cite</small>
 </a> &nbsp; &nbsp; &nbsp;
 <a href="https://doi.org/10.1007/JHEP12(2022)081" target="_blank" rel="noopener noreferrer">
@@ -151,7 +154,7 @@ e-Print: <a href="https://arxiv.org/abs/2401.07215">2401.07215 [quant-ph]</a> <b
 <a href="https://arxiv.org/pdf/2401.07215.pdf" target="_blank" rel="noopener noreferrer">
 <i class="fa-solid fa-file-pdf"></i> <small>View PDF</small>
 </a> &nbsp; &nbsp; &nbsp;
-<a href="/manoline-git.github.io/bib/Sharma2024fqc.txt" target="_blank" rel="noopener noreferrer">
+<a href="/bib/Sharma2024fqc.txt" target="_blank" rel="noopener noreferrer">
 <i class="fa-solid fa-quote-left"></i> <small>cite</small>
 </a> &nbsp; &nbsp; &nbsp;
 

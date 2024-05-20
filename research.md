@@ -9,7 +9,7 @@ permalink: /research/
 <script src="https://cdn.amcharts.com/lib/5/wc.js"></script>
 <script src="https://cdn.amcharts.com/lib/5/themes/Animated.js"></script>
 <div id="chartdiv"></div>
-<script src="/manoline-git.github.io/p5/word cloud.js"></script>
+<script src="/p5/word cloud.js"></script>
 
 &nbsp;
 
@@ -24,7 +24,7 @@ My research is based on two broad areas ---
 
 We study how the many-body interactions lead to scrambling of initially localized information.
 
-<img src="/manoline-git.github.io/img/scrambling.svg" alt="SVG Image" width="750">
+<img src="/img/scrambling.svg" alt="SVG Image" width="750">
 
 &nbsp;
 
@@ -37,4 +37,4 @@ We use quantum-walks to develop quantum algorithms and simulations.
 <svg id="svg" height="125" viewBox="0 0 800 125"></svg>
 
 <!-- JavaScript code for loading SVG and animation -->
-<script src="/manoline-git.github.io/assets/js/qw.js"></script>
+<script src="/assets/js/qw.js"></script>
