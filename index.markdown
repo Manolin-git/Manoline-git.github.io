@@ -27,10 +27,10 @@ textElements.forEach(text => {
 
 
 <h1 class="text">Hi there!<span>I'm Himanshu</span></h1>
-<h1 class="text">I'm a Physicist.<span><a style = "color: #fdfdfd !important;" href = "/Manoline-git.github.io/about/">broadly speaking!</a></span></h1>
-<h1 class="text"> My research lie @ &cap; of <span><a style = "color: #fdfdfd !important;" href="/Manoline-git.github.io/research/">more specifically?</a></span></h1>
+<h1 class="text">I'm a Physicist.<span><a style = "color: #fdfdfd !important;" href = "/manoline-git.github.io/about/">broadly speaking!</a></span></h1>
+<h1 class="text"> My research lie @ &cap; of <span><a style = "color: #fdfdfd !important;" href="/manoline-git.github.io/research/">more specifically?</a></span></h1>
 <h1 class="text">quantum many-body,<span>quantum-computing,</span></h1>
-<h1 class="text">& information theory.<span><a style = "color: #fdfdfd !important;" href = "/Manoline-git.github.io/contact/">Let's connect!</a></span></h1>
+<h1 class="text">& information theory.<span><a style = "color: #fdfdfd !important;" href = "/manoline-git.github.io/contact/">Let's connect!</a></span></h1>
 
 
 <!-- <a href="https://stacksorted.com/text-effects/minh-pham" target="_blank">SOURCE</a> -->
@@ -57,7 +57,7 @@ textElements.forEach(text => {
 <!-- 
 
 <div class="image-container">
-    <img src="/Manoline-git.github.io/img/img.jpg" alt="Image" />
+    <img src="/manoline-git.github.io/img/img.jpg" alt="Image" />
     <p class="text-content">
             I am a physicist broadly interested in the ideas at the intersection between condensed matter theory, quantum computing, and information theory.
             A significant fraction of my research is naturally devoted to the development and use of quantum algorithms and simulations.

@@ -7,7 +7,7 @@ categories: publication update
 
 My paper titled '[Quantum-walk search in motion](https://www.nature.com/articles/s41598-024-51709-0)' is officially published in the Scientific Reports and available in Open acess.
 
-![image tooltip here](/Manoline-git.github.io/img/graph.jpg)
+![image tooltip here](/manoline-git.github.io/img/graph.jpg)
 
 In recent decades, quantum computation has garnered increasing attention from a wide array of scientific disciplines, including physics, biology, computer science, and industry. Quantum computers are designed to surpass classical computers by leveraging quantum algorithms, and one of the significant challenges they tackle is searching large databases, which has extensive practical applications. Quantum search algorithms are a subset of these algorithms that harness quantum advantages to outperform classical search algorithms, and they have been implemented on various quantum computing platforms. <br>
 

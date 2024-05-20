@@ -14,7 +14,7 @@ function loadSVG(url, callback) {
 }
 
 // Load SVG file
-loadSVG("/Manoline-git.github.io/assets/svg/walker.svg", function (svgContent) {
+loadSVG("/manoline-git.github.io/assets/svg/walker.svg", function (svgContent) {
   var svgPlaceholder = document.getElementById("svg");
   svgPlaceholder.setAttribute("transform", "translate(50,0)");
   svgPlaceholder.appendChild(svgContent);
