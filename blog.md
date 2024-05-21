@@ -156,17 +156,6 @@ div.overlay-blue {
 <div class="slider">
 <div class="slider-wrapper flex">
 	<div class="slide flex">
-		<div class="slide-image slider-link prev"><img src="/blogs/img/Peter Camenzind.jpg" alt="Book Cover"><div class="overlay"></div></div>
-		<div class="slide-content">
-			<div class="slide-date">25.04.2024</div>
-			<div class="slide-title">On Peter Camenzind - Novel by Hermann Hesse</div>
-			<div class="slide-text">Recently, I read Hesse's Peter Camenzind -- my fourth read from Hesse. It surely left a quite different impression than some of his other works.. </div>
-			<div class="slide-more"><a
-            href="/blogs/Peter_Camenzind.html"
-          >READ MORE</a></div>
-		</div>	
-	</div>
-	<div class="slide flex">
 		<div class="slide-image slider-link next"><img src="/blogs/img/Cat.jpg" alt="Studio Ghibli"><div class="overlay"></div></div>
 		<div class="slide-content">
 			<div class="slide-date">To be uploaded</div>
@@ -177,6 +166,17 @@ div.overlay-blue {
           >READ MORE</a></div>
 		</div>	
 	</div>	
+	<div class="slide flex">
+		<div class="slide-image slider-link prev"><img src="/blogs/img/Peter Camenzind.jpg" alt="Book Cover"><div class="overlay"></div></div>
+		<div class="slide-content">
+			<div class="slide-date">25.04.2024</div>
+			<div class="slide-title">On Peter Camenzind - Novel by Hermann Hesse</div>
+			<div class="slide-text">Recently, I read Hesse's Peter Camenzind -- my fourth read from Hesse. It surely left a quite different impression than some of his other works.. </div>
+			<div class="slide-more"><a
+            href="/blogs/Peter_Camenzind.html"
+          >READ MORE</a></div>
+		</div>	
+	</div>
 	<!-- <div class="slide flex">
 		<div class="slide-image slider-link next"><img src="https://goranvrban.com/codepen/img5.jpg"><div class="overlay"></div></div>
 		<div class="slide-content">

@@ -56,8 +56,9 @@ Hi there! I am an MS in Physical and Mathematical Science at Division of Physica
 </div>
 
 &nbsp;
+
 Detailed Curriculum Vit&aelig; : <a href="/CV/Curriculum Vitae.pdf" target="_blank" rel="noopener noreferrer">
-<i class="ai ai-cv"></i> <small> PDF </small>
+<i class="ai ai-cv"></i> <small> PDF </small> </a>
 
 <!-- <h3>Education</h3>
 

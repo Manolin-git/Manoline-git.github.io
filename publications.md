@@ -5,6 +5,18 @@ order: 3
 permalink: /publications/
 ---
 
+<style>
+
+h2 {
+    background-color: #DEE2E6;
+}
+
+h3 {
+    background-color: #E9ECEF;
+}
+
+</style>
+
 &nbsp;
 
 <a href="https://scholar.google.com/citations?user=o3SoQjUAAAAJ&hl=en" style="font-size: 16x;"> <i class="ai ai-google-scholar"></i> Google Scholar</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://inspirehep.net/authors/2619981?ui-citation-summary=true" style="font-size: 16px;"> <i class="ai ai-inspire"></i> iNSPIRE-HEP</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href="https://arxiv.org/search/?query=Himanshu+Sahu&searchtype=author&source=header" style="font-size: 16px;"> <i class="ai ai-arxiv"></i>arXiv</a> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <a href = "https://orcid.org/0000-0002-9522-6592" style="font-size: 16x;"> <i class="ai ai-orcid"></i> ORCiD </a>
@@ -17,7 +29,7 @@ Publications are listed in reverse chronological order. Preprints are eventually
 
 <h3 id="2024" style="color: #343A40;">2024</h3>
 
-Speed limits to the growth of Krylov complexity in open quantum systems `To be appear as a letter in Phys. Rev. D`<br>
+Speed limits to the growth of Krylov complexity in open quantum systems <sup>&dagger;</sup> `To be appear as a letter in Phys. Rev. D`<br>
 <small>Aranya Bhattacharya, Pingal Pratyush Nath, Himanshu Sahu (Mar 06, 2024)<br>
 e-Print: <a href="https://arxiv.org/abs/2403.03584">2403.03584 [quant-ph]</a> </small> <br>
 <a href="https://arxiv.org/pdf/2403.03584.pdf" target="_blank" rel="noopener noreferrer">
@@ -144,9 +156,6 @@ e-Print: <a href="https://arxiv.org/abs/2207.05347">2207.05347 [quant-ph]</a> <b
 
 <h3 id="2024_pre" style="color: #343A40;">2024</h3>
 
-
-<h3 id="2023_pre" style="color: #343A40;">2023</h3>
-
 Quantum chaos in PT-symmetric Quantum Kicked Rotor<br>
 <small> Kshitij Sharma, Himanshu Sahu, Subroto Mukerjee (Jan 14, 2024)<br>
 e-Print: <a href="https://arxiv.org/abs/2401.07215">2401.07215 [quant-ph]</a> <br>
@@ -157,6 +166,10 @@ e-Print: <a href="https://arxiv.org/abs/2401.07215">2401.07215 [quant-ph]</a> <b
 <a href="/bib/Sharma2024fqc.txt" target="_blank" rel="noopener noreferrer">
 <i class="fa-solid fa-quote-left"></i> <small>cite</small>
 </a> &nbsp; &nbsp; &nbsp;
+
+
+<h3 id="2023_pre" style="color: #343A40;">2023</h3>
+
 
 &nbsp;
 
