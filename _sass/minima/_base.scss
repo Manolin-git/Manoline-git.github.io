@@ -24,6 +24,7 @@ figure {
 /**
  * Basic styling
  */
+
 body {
   font: $base-font-weight #{$base-font-size}/#{$base-line-height}
     $base-font-family;
@@ -39,6 +40,15 @@ body {
   min-height: 100vh;
   flex-direction: column;
 }
+
+body,
+html {
+    -ms-text-size-adjust: 100%;
+    -webkit-text-size-adjust: 100%;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
 
 /**
  * Set `margin-bottom` to maintain vertical rhythm
