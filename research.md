@@ -42,7 +42,7 @@ My research is based on two broad areas ---
 
 <h3>Quantum Scrambling</h3>
 
-In quantum systems, interactions propagate the initially localized information across the exponentially large degrees of freedom. This phenomenon, known as quantum scrambling. <a href="/articles/QIS.html">Learn more about this</a>
+In quantum systems, interactions propagate the initially localized information across the exponentially large degrees of freedom. This phenomenon, known as quantum scrambling. <a href="https://journals.aps.org/prxquantum/abstract/10.1103/PRXQuantum.5.010201">Learn more about this</a>
 
 <img src="/img/scrambling.svg" alt="SVG Image" width="750" class="centered-image">
 
@@ -103,7 +103,7 @@ To be updated.
 
 <h3>Quantum walks</h3>
 
-Quantum walks are quantum analog of classical random walk : in it walker can be in superposition of different position and move according to quantum rule. <a href="/articles/QW.html">Learn more about this</a>
+Quantum walks are quantum analog of classical random walk : in it walker can be in superposition of different position and move according to quantum rule. <a href="https://en.wikipedia.org/wiki/Quantum_walk">Learn more about this</a>
 
 <!-- Add placeholder for SVG -->
 
