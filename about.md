@@ -12,48 +12,6 @@ permalink: /about/
 Hi there! I am an MS in Physical and Mathematical Science at Division of Physical and Math. Sciences, Indian Institute of Science. I am also part of Quantum Optics and Quantum Information Lab at the Department of Instrumental and Applied Physics, working under Prof. CM Chandrashekar. Additionally, I am a quantum intern at IBM Research Lab, Bangalore.
 </div> <br>
 
-<h2> Timeline </h2> <br>
-<div class="container-fluid">
-            <ul class="timeline">
-                <li class="timeline-item">
-                    <div class="timeline-info">
-                        <span>March, 2024-Present</span>
-                    </div>
-                    <div class="timeline-marker"></div>
-                    <div class="timeline-content">
-                        <h3 class="timeline-title">Quantum Intern @ IBM Research Lab</h3>
-                        <!-- <p>To be updated.</p> -->
-                    </div>
-                </li>
-                <li class="timeline-item">
-                    <div class="timeline-info">
-                        <span>Aug, 2021-Present</span>
-                    </div>
-                    <div class="timeline-marker"></div>
-                    <div class="timeline-content">
-                        <h3 class="timeline-title">MS in Physics @ Indian Institute of Science</h3>
-                        <!-- <p>To be updated</p> -->
-                    </div>
-                </li>
-                    <li class="timeline-item">
-                    <div class="timeline-info">
-                        <span>2018-2023</span>
-                    </div>
-                    <div class="timeline-marker-expire"></div>
-                    <div class="timeline-content">
-                        <h3 class="timeline-title">Bachelor in Physics @ Banaras Hindu University</h3>
-                        <!-- <p>To be updated</p> -->
-                    </div>
-                </li>
-                <li class="timeline-item period">
-                    <div class="timeline-info"></div>
-                    <div class="timeline-marker"></div>
-                    <!-- <div class="timeline-content">
-                        <h2 class="timeline-title">April 2016</h2>
-                    </div> -->
-                </li>
-            </ul>
-</div>
 
 &nbsp;
 
@@ -71,9 +29,9 @@ Detailed Curriculum Vit&aelig; : <a href="/CV/Curriculum Vitae.pdf" target="_bla
   </div>
 </div> -->
 
-&nbsp;
+<!-- &nbsp; -->
 
-<h3>Activities</h3>
+<!-- <h3>Activities</h3>
 
 <div style="display: flex;">
   <div style="flex-basis: 20%;">2020 - Present
@@ -85,4 +43,4 @@ Detailed Curriculum Vit&aelig; : <a href="/CV/Curriculum Vitae.pdf" target="_bla
         <img src="https://stackexchange.com/users/flair/16277143.png" width="208" height="58" alt="profile for Young Kindaichi on Stack Exchange, a network of free, community-driven Q&amp;A sites" title="profile for Young Kindaichi on Stack Exchange, a network of free, community-driven Q&amp;A sites" />
     </a>
   </div>
-</div>
+</div> -->
