@@ -4,6 +4,10 @@
     eprint = "2403.03584",
     archivePrefix = "arXiv",
     primaryClass = "quant-ph",
-    month = "3",
+    doi = "10.1103/PhysRevD.109.L121902",
+    journal = "Phys. Rev. D",
+    volume = "109",
+    number = "12",
+    pages = "L121902",
     year = "2024"
 }

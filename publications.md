@@ -29,8 +29,9 @@ Publications are listed in reverse chronological order. Preprints are eventually
 
 <h3 id="2024" style="color: #343A40;">2024</h3>
 
-Speed limits to the growth of Krylov complexity in open quantum systems <sup>&dagger;</sup> `To be appear as a letter in Phys. Rev. D`<br>
+Speed limits to the growth of Krylov complexity in open quantum systems <sup>&dagger;</sup> <br>
 <small>Aranya Bhattacharya, Pingal Pratyush Nath, Himanshu Sahu (Mar 06, 2024)<br>
+Published in: Phys. Rev. D 109, L121902 (2024) <br>
 e-Print: <a href="https://arxiv.org/abs/2403.03584">2403.03584 [quant-ph]</a> </small> <br>
 <a href="https://arxiv.org/pdf/2403.03584.pdf" target="_blank" rel="noopener noreferrer">
 <i class="fa-solid fa-file-pdf"></i> <small>View PDF</small>
@@ -38,6 +39,13 @@ e-Print: <a href="https://arxiv.org/abs/2403.03584">2403.03584 [quant-ph]</a> </
 <a href="/bib/Bhattacharya2024uxx.txt" target="_blank" rel="noopener noreferrer">
 <i class="fa-solid fa-quote-left"></i> <small>cite</small>
 </a> &nbsp; &nbsp; &nbsp;
+<a href="https://doi.org/10.1103/PhysRevD.109.L121902" target="_blank" rel="noopener noreferrer">
+<i class="ai ai-doi"></i> <small>DOI</small>
+</a> &nbsp; &nbsp; &nbsp;
+<a href="https://doi.org/10.1103/PhysRevD.109.L121902" target="_blank" rel="noopener noreferrer">
+<i class="ai ai-closed-access"></i> <small>closed access</small>
+</a>
+
 
 Krylov complexity for non-local spin chains <sup>&dagger;</sup><br>
 <small>Aranya Bhattacharya, Pingal Pratyush Nath, Himanshu Sahu (Dec 18, 2023)<br>
@@ -155,6 +163,19 @@ e-Print: <a href="https://arxiv.org/abs/2207.05347">2207.05347 [quant-ph]</a> <b
 <h2 style="color: #343A40;">Pre-prints under review</h2>
 
 <h3 id="2024_pre" style="color: #343A40;">2024</h3>
+
+Information scrambling in quantum-walks<br>
+<small> Himanshu Sahu (June 09, 2024)<br>
+e-Print: <a href="https://arxiv.org/abs/2406.05865">2401.07215 [quant-ph]</a> <br>
+</small>
+<a href="https://arxiv.org/pdf/2406.05865" target="_blank" rel="noopener noreferrer">
+<i class="fa-solid fa-file-pdf"></i> <small>View PDF</small>
+</a> &nbsp; &nbsp; &nbsp;
+<a href="/bib/Sahu2024kho.txt" target="_blank" rel="noopener noreferrer">
+<i class="fa-solid fa-quote-left"></i> <small>cite</small>
+</a> &nbsp; &nbsp; &nbsp;
+
+
 
 Quantum chaos in PT-symmetric Quantum Kicked Rotor<br>
 <small> Kshitij Sharma, Himanshu Sahu, Subroto Mukerjee (Jan 14, 2024)<br>

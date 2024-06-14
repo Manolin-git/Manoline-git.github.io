@@ -70,7 +70,7 @@ series.data.setAll([
   { tag: "time-crystals", weight: 4.66 },
   { tag: "OTOC", weight: 4.66 },
   { tag: "level-spacing", weight: 3.01 },
-  { tag: "neutrino oscillation", weight: 2.8 },
+  { tag: "neutrino", weight: 2.8 },
   { tag: "operator", weight: 2.6 },
   { tag: "K-complexity", weight: 2.46 },
   { tag: "lindbladian", weight: 2.12 },

@@ -1,0 +1,9 @@
+@article{Sahu:2024kho,
+    author = "Sahu, Himanshu",
+    title = "{Information scrambling in quantum-walks}",
+    eprint = "2406.05865",
+    archivePrefix = "arXiv",
+    primaryClass = "quant-ph",
+    month = "6",
+    year = "2024"
+}
