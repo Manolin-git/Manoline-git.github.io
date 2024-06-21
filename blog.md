@@ -158,9 +158,9 @@ div.overlay-blue {
 	<div class="slide flex">
 		<div class="slide-image slider-link next"><img src="/blogs/img/Cat.jpg" alt="Studio Ghibli"><div class="overlay"></div></div>
 		<div class="slide-content">
-			<div class="slide-date">To be uploaded</div>
+			<div class="slide-date">21.06.2024</div>
 			<div class="slide-title">Cat's Universe</div>
-			<div class="slide-text"> </div>
+			<div class="slide-text">In recent years, I have spent a lot of my time with cats, and often envied the luxury they have -- for they are carefree and absentminded at times...</div>
 			<div class="slide-more"><a
             href="/blogs/Cats_Universe.html"
           >READ MORE</a></div>

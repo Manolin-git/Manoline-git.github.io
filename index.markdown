@@ -54,15 +54,3 @@ textElements.forEach(text => {
 &nbsp; -->
 
 
-<!-- 
-
-<div class="image-container">
-    <img src="//img/img.jpg" alt="Image" />
-    <p class="text-content">
-            I am a physicist broadly interested in the ideas at the intersection between condensed matter theory, quantum computing, and information theory.
-            A significant fraction of my research is naturally devoted to the development and use of quantum algorithms and simulations.
-            I'm also interested in studying quantum information scrambling in many-body systems.
-    </p>
-</div>
-
-&nbsp; -->
