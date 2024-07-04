@@ -6,6 +6,12 @@ date: 2024-04-25 00:55:31 +0530
 
 <style>
 
+.centered-image {
+	display: block;
+	margin: 0 auto;
+	max-width: 100%; /* Adjust the width as needed */
+}
+
 img
 {
 	max-width: 15%;
@@ -71,6 +77,9 @@ blockquote {
 
 Recently, I read Hesse's Peter Camenzind -- my fourth read from Hesse. It surely left a quite different impression than some of his other works. However, it still follows somewhat the same theme, where a protagonist shares quite a unique value other than his surroundings and is forced to embark on a journey to self-realization. However, this is not completely true for Peter Camenzind --- for although he does discover a lot of wisdom through his wide exploration, he does not find the same state of content as other characters do. 
 
+<img src="/blogs/img/snow_mountain.jpg" alt="Image 1" class="centered-image">
+
+
 
 Peter Camenzind comes from a village in the mountains so isolated that <i> at least three-quarters of them are called Camenzind.</i> Being good at writing led him to further studies that led him to the outer world. One thing that I did like about Peter is his depth value for friendship, love, etc -- it may be tied to his self-isolation. These were so deep that he suffered more than any other. It started with his first which, as he said -- 
 
@@ -128,9 +137,3 @@ Finally, he comes back to mountain where he belonged -- And you asked, "Well, Is
 Peter Camenzind is not so convincing in its end like the others -- Steppenwolf, Siddhartha or Demian. But it does present a strong case -- whether going against the flow of river really worth the trouble. 
 
 
-
-<!-- begin wwww.htmlcommentbox.com -->
- <div id="HCB_comment_box"><a href="http://www.htmlcommentbox.com">Comment Box</a> is loading comments...</div>
- <link rel="stylesheet" type="text/css" href="https://www.htmlcommentbox.com/static/skins/bootstrap/twitter-bootstrap.css?v=0" />
- <script type="text/javascript" id="hcb"> /*<!--*/ if(!window.hcb_user){hcb_user={};} (function(){var s=document.createElement("script"), l=hcb_user.PAGE || (""+window.location).replace(/'/g,"%27"), h="https://www.htmlcommentbox.com";s.setAttribute("type","text/javascript");s.setAttribute("src", h+"/jread?page="+encodeURIComponent(l).replace("+","%2B")+"&mod=%241%24wq1rdBcg%24AkhVteoR4lp18Lzh0e1di1"+"&opts=16798&num=10&ts=1716318545734");if (typeof s!="undefined") document.getElementsByTagName("head")[0].appendChild(s);})(); /*-->*/ </script>
-<!-- end www.htmlcommentbox.com -->

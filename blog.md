@@ -156,6 +156,17 @@ div.overlay-blue {
 <div class="slider">
 <div class="slider-wrapper flex">
 	<div class="slide flex">
+		<div class="slide-image slider-link next"><img src="/blogs/img/DasUndbild.jpg" alt="Studio Ghibli"><div class="overlay"></div></div>
+		<div class="slide-content">
+			<div class="slide-date">Soon</div>
+			<div class="slide-title">Get busy with abstraction</div>
+			<div class="slide-text">To be updated</div>
+			<div class="slide-more"><a
+            href="/blogs/busy_with_abstraction.html"
+          >READ MORE</a></div>
+		</div>	
+	</div>	
+	<div class="slide flex">
 		<div class="slide-image slider-link next"><img src="/blogs/img/Cat.jpg" alt="Studio Ghibli"><div class="overlay"></div></div>
 		<div class="slide-content">
 			<div class="slide-date">21.06.2024</div>
