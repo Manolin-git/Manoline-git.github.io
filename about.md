@@ -63,37 +63,31 @@ gsap.utils.toArray(".parallax").forEach(text => {
 
 
 
-
-
-<body class="" id="top">
-
+<!-- <body class="" id="top">
   <div class="history-wrapper-content">
       <section class='scrollContainer'>
           <section class="section start-content">
               <div class="item start-chapter">
                   <div class="caption">
                       <h2>
-                          Our History
+                          My History
                       </h2>
                       <p>
-                          Founded in 1977 and headquartered in Eschborn(Germany), Standard Profil Group is a first
-                          tier automotive supplier of sealing systems...
-                          Adding value to lives since 1977 Would you like to take a tour though the history?
+                      Hi there! I am a physicist broadly interested in the ideas at the intersection between condensed matter theory, quantum computing, and information theory.
                       </p>
                   </div>
                   <figure class="start-image">
                       <img class="parallax"
-                          src="https://images.unsplash.com/photo-1576666735065-b24beb27b939?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1042&q=80">
+                          src="https://www.ibm.com/quantum/_next/image?url=%2Fquantum%2Fimages%2Fresearch%2Fcareers.png&w=1584&q=75">
                   </figure>
               </div>
           </section>
-
           <section class='section'>
               <div class="chapters c01">
                   <div class="double-images type-01">
                       <figure>
                           <img
-                              src="https://images.unsplash.com/photo-1576666735112-87a8ea71671c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1786&q=80">
+                              src="https://www.ibm.com/quantum/_next/image?url=%2Fquantum%2Fimages%2Fresearch%2Fcareers.png&w=1584&q=75">
                       </figure>
                       <figure class="parallax">
                           <img
@@ -102,16 +96,14 @@ gsap.utils.toArray(".parallax").forEach(text => {
                   </div>
                   <div class="caption fadeUp">
                       <h2 class="slideText">
-                          1977
+                          03/2024-07/2024
                       </h2>
                       <p>
-                          Our deep roots in automotive sealing systems go back to 1977 when Standard Profil was
-                          founded by Rıfat Kamhi in Istanbul on March 10
+                      Quantum Intern at IBM Quantum
                       </p>
                   </div>
               </div>
           </section>
-
           <section class='section'>
               <div class="chapters">
                   <div class="triple-images">
@@ -130,7 +122,6 @@ gsap.utils.toArray(".parallax").forEach(text => {
                   </div>
               </div>
           </section>
-
           <section class='section'>
               <div class="chapters c02">
                   <div class="double-images type-02">
@@ -154,10 +145,8 @@ gsap.utils.toArray(".parallax").forEach(text => {
                   </div>
               </div>
           </section>
-
       </section>
   </div>
+</body>
 
-  </body>
-
-
+ -->

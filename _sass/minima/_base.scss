@@ -338,17 +338,15 @@ $white: #fff;
       }
       
     .caption {
-       
             h2 {
-                font-size: clamp(7rem, 6vw, 10rem);
+                font-size: clamp(5rem, 6vw, 6rem);
                 text-transform: uppercase;
                 line-height: 1;
                 letter-spacing: -6.66667px;
             }
-
             p {
                 max-width: 60rem;
-                font-size: clamp(2rem, 6vw, 2rem);
+                font-size: clamp(2.0rem, 6vw, 2.0rem);
             }
     }
 
@@ -499,7 +497,7 @@ $white: #fff;
                 p {
                     max-width: 60rem;
                     padding-left: 10rem;
-                    font-size: clamp(2rem, 6vw, 2rem);
+                    font-size: clamp(1.5rem, 6vw, 1.5rem);
                 }
         }
     }
