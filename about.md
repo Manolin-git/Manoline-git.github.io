@@ -70,7 +70,7 @@ gsap.utils.toArray(".parallax").forEach(text => {
               <div class="item start-chapter">
                   <div class="caption">
                       <h2>
-                          My History
+                          About Me
                       </h2>
                       <p>
                       Hi there! I am a physicist broadly interested in the ideas at the intersection between condensed matter theory, quantum computing, and information theory.
@@ -111,13 +111,13 @@ gsap.utils.toArray(".parallax").forEach(text => {
                           <img
                               src="/img/iisc_01.jpg">
                       </figure>
-                      <!-- <figure class="parallax">
-                          <img
-                              src="/img/qoqi_group_01.jpg">
-                      </figure> -->
                       <figure class="parallax">
                           <img
                               src="/img/qoqi_group_01.jpg">
+                      </figure>
+                      <figure class="parallax">
+                          <img
+                              src="/img/iisc_flower.jpg">
                       </figure>
                   </div>
               </div>
@@ -138,9 +138,11 @@ gsap.utils.toArray(".parallax").forEach(text => {
                       <h2 class="slideText">
                           2021-24
                       </h2>
-                      <p style = "padding-right: 0 !important;">
-                        MS Research Student @ Indian Institute of Science | Quantum Optics and Quantum Information Lab 
+                      <p>
+                        MS Research in Physics @ Indian Institute of Science <br>
+                        Quantum Optics & Quantum Information
                       </p>
+                      <!-- <p> Quantum Optics & Quantum Information </p> -->
                   </div>
               </div>
           </section>
@@ -149,3 +151,7 @@ gsap.utils.toArray(".parallax").forEach(text => {
 </body>
 
 
+&nbsp;
+
+Detailed Curriculum Vit&aelig; : <a href="/CV/Curriculum Vitae.pdf" target="_blank" rel="noopener noreferrer">
+<i class="ai ai-cv"></i> <small> PDF </small> </a> 
