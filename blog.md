@@ -160,7 +160,7 @@ div.overlay-blue {
 		<div class="slide-content">
 			<div class="slide-date">Soon</div>
 			<div class="slide-title">Get busy with abstraction</div>
-			<div class="slide-text">To be updated</div>
+			<div class="slide-text">'The Plague' is said to be best describing our situation during the time of Covid-19.</div>
 			<div class="slide-more"><a
             href="/blogs/busy_with_abstraction.html"
           >READ MORE</a></div>

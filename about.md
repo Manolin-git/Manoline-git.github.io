@@ -109,7 +109,7 @@ gsap.utils.toArray(".parallax").forEach(text => {
                   <div class="triple-images">
                       <figure>
                           <img
-                              src="/img/iisc_01.jpg">
+                              src="/img/iisc_01.JPG">
                       </figure>
                       <figure class="parallax">
                           <img

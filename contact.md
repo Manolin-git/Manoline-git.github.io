@@ -7,7 +7,7 @@ permalink: /contact/
 
 &nbsp;
 
-<a href="mailto:himanshusah1@iisc.ac.in" style="font-size: 16x;"> <i class="fa-solid fa-at"></i> himanshusah1@iisc.ac.in </a><br>
+<i class="fa-solid fa-at"></i> <a href="mailto:himanshusah1@iisc.ac.in" style="font-size: 16x;">himanshusah1@iisc.ac.in </a>, <a href="mailto:himanshusah1@iisc.ac.in" style="font-size: 16x;">himanshu.sahu@partner.ibm.com</a>, <a href="mailto:himanshu.sahu@uwaterloo.ca" style="font-size: 16x;">himanshu.sahu@uwaterloo.ca</a> <br>
 <a href="https://twitter.com/Himansh59335370" style="font-size: 16x;"> <i class="fa-brands fa-x-twitter"></i> Twitter </a><br>
 <a href="https://www.linkedin.com/in/himanshu-sahu-iisc/" style="font-size: 16x;"> <i class="fa-brands fa-linkedin"></i> Linkedin </a><br>
 <i class="fa-solid fa-location-dot"></i> Department of Instrumental & Applied Physics, Indian Institute of Science<br>

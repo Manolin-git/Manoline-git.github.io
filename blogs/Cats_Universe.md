@@ -10,6 +10,7 @@ date: 2024-06-21 00:55:31 +0530
 	display: block;
 	margin: 0 auto;
 	max-width: 100%; /* Adjust the width as needed */
+	width: 100%;
 }
 
 img
