@@ -7,7 +7,7 @@ permalink: /about/
 
 &nbsp;
 
-<div style="text-align: justify">
+<!-- <div style="text-align: justify">
 
 Hi there! I am an MS in Physical and Mathematical Science at Division of Physical and Math. Sciences, Indian Institute of Science. I am also part of Quantum Optics and Quantum Information Lab at the Department of Instrumental and Applied Physics, working under Prof. CM Chandrashekar. Additionally, I am a quantum intern at IBM Research Lab, Bangalore.
 </div> <br>
@@ -16,7 +16,7 @@ Hi there! I am an MS in Physical and Mathematical Science at Division of Physica
 &nbsp;
 
 Detailed Curriculum Vit&aelig; : <a href="/CV/Curriculum Vitae.pdf" target="_blank" rel="noopener noreferrer">
-<i class="ai ai-cv"></i> <small> PDF </small> </a>
+<i class="ai ai-cv"></i> <small> PDF </small> </a> -->
 
 
 <script>
@@ -63,7 +63,7 @@ gsap.utils.toArray(".parallax").forEach(text => {
 
 
 
-<!-- <body class="" id="top">
+<body class="" id="top">
   <div class="history-wrapper-content">
       <section class='scrollContainer'>
           <section class="section start-content">
@@ -78,7 +78,7 @@ gsap.utils.toArray(".parallax").forEach(text => {
                   </div>
                   <figure class="start-image">
                       <img class="parallax"
-                          src="https://www.ibm.com/quantum/_next/image?url=%2Fquantum%2Fimages%2Fresearch%2Fcareers.png&w=1584&q=75">
+                          src="/img/quantum_computer.jpg">
                   </figure>
               </div>
           </section>
@@ -87,16 +87,16 @@ gsap.utils.toArray(".parallax").forEach(text => {
                   <div class="double-images type-01">
                       <figure>
                           <img
-                              src="https://www.ibm.com/quantum/_next/image?url=%2Fquantum%2Fimages%2Fresearch%2Fcareers.png&w=1584&q=75">
+                              src="/img/ibm_research_intern_group.jpg">
                       </figure>
                       <figure class="parallax">
                           <img
-                              src="https://images.unsplash.com/photo-1579702493487-45a296ba9e34?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=780&q=80">
+                              src="/img/ibm_quantum_group.jpg">
                       </figure>
                   </div>
                   <div class="caption fadeUp">
                       <h2 class="slideText">
-                          03/2024-07/2024
+                          03/2024-Present
                       </h2>
                       <p>
                       Quantum Intern at IBM Quantum
@@ -109,15 +109,15 @@ gsap.utils.toArray(".parallax").forEach(text => {
                   <div class="triple-images">
                       <figure>
                           <img
-                              src="https://images.unsplash.com/photo-1504328345606-18bbc8c9d7d1?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=3270&q=80">
+                              src="/img/iisc_01.jpg">
                       </figure>
+                      <!-- <figure class="parallax">
+                          <img
+                              src="/img/qoqi_group_01.jpg">
+                      </figure> -->
                       <figure class="parallax">
                           <img
-                              src="https://images.unsplash.com/photo-1496247749665-49cf5b1022e9?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1746&q=80">
-                      </figure>
-                      <figure class="parallax">
-                          <img
-                              src="https://images.unsplash.com/photo-1455165814004-1126a7199f9b?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80">
+                              src="/img/qoqi_group_01.jpg">
                       </figure>
                   </div>
               </div>
@@ -127,20 +127,19 @@ gsap.utils.toArray(".parallax").forEach(text => {
                   <div class="double-images type-02">
                       <figure>
                           <img class="inner-scale"
-                              src="https://images.unsplash.com/photo-1565089200536-d69692d4525e?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDEyfHx8ZW58MHx8fHw%3D&auto=format&fit=crop&w=500&q=60">
+                              src="/img/Pravega.jpg">
                       </figure>
                       <figure class="parallax">
                           <img
-                              src="https://images.unsplash.com/photo-1589320011103-48e428abcbae?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1740&q=80">
+                              src="/img/qoqi_group.jpg">
                       </figure>
                   </div>
                   <div class="caption fadeUp">
-                      <h2>
-                          1977
+                      <h2 class="slideText">
+                          2021-24
                       </h2>
-                      <p>
-                          Our deep roots in automotive sealing systems go back to 1977 when Standard Profil was
-                          founded by Rıfat Kamhi in Istanbul on March 10
+                      <p style = "padding-right: 0 !important;">
+                        MS Research Student @ Indian Institute of Science | Quantum Optics and Quantum Information Lab 
                       </p>
                   </div>
               </div>
@@ -149,4 +148,4 @@ gsap.utils.toArray(".parallax").forEach(text => {
   </div>
 </body>
 
- -->
+
