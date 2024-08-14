@@ -2,13 +2,13 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="703.1908"
-   height="697.22034"
-   viewBox="0 0 703.19079 697.22034"
+   width="702.11407"
+   height="352.67316"
+   viewBox="0 0 702.11407 352.67316"
    version="1.1"
    id="svg1"
    sodipodi:docname="Circuit Complexity.svg"
-   inkscape:version="1.3.2 (091e20e, 2023-11-25)"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -22,20 +22,20 @@
      inkscape:pageopacity="0"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
-     inkscape:zoom="0.65672913"
-     inkscape:cx="328.90273"
-     inkscape:cy="462.13878"
-     inkscape:window-width="1440"
-     inkscape:window-height="900"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
+     inkscape:zoom="0.92875524"
+     inkscape:cx="302.55549"
+     inkscape:cy="339.16363"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
      inkscape:current-layer="svg1">
     <inkscape:page
        x="0"
        y="0"
-       width="703.1908"
-       height="697.22034"
+       width="702.11407"
+       height="352.67316"
        id="page1"
        margin="0 0 15.226978"
        bleed="0" />
@@ -75,15 +75,9 @@
          id="path4" />
     </marker>
   </defs>
-  <circle
-     style="opacity:0.437956;fill:#e9ecef;fill-opacity:1;stroke:none;stroke-width:2.03525;stroke-opacity:1"
-     id="path2"
-     cx="349.6033"
-     cy="351.69653"
-     r="339.20761" />
   <g
      id="g35"
-     transform="translate(85.401464,62.141346)">
+     transform="translate(85.401464,-132.74316)">
     <path
        style="fill:#adb5bd;stroke:#ced4da;stroke-width:3.01776;stroke-miterlimit:3.9;stroke-opacity:1"
        d="M 69.511322,212.11523 H 447.46409"
@@ -201,10 +195,10 @@
   </g>
   <path
      style="fill:none;stroke:#632b30;stroke-width:3.968;stroke-miterlimit:3.9;stroke-dasharray:none;stroke-opacity:1"
-     d="m 108.26273,448.60569 c 21.77264,-43.1824 43.54527,-86.3648 67.94904,-109.22609 24.40377,-22.8613 51.43759,-25.40139 76.2042,-24.31271 24.7666,1.08868 47.26454,5.80599 71.66831,11.06776 24.40376,5.26178 50.71184,11.0677 39.28071,29.84692 -11.43113,18.77922 -60.60002,50.53035 -56.51707,68.58354 4.08294,18.05319 61.41641,22.40763 103.05684,15.6035 41.64043,-6.80412 67.58564,-24.76619 89.35845,-39.37212 21.77282,-14.60592 39.37202,-25.85489 56.97157,-37.10409"
+     d="m 108.26273,253.72118 c 21.77264,-43.1824 43.54527,-86.3648 67.94904,-109.22609 24.40377,-22.8613 51.43759,-25.40139 76.2042,-24.31271 24.7666,1.08868 47.26454,5.80599 71.66831,11.06776 24.40376,5.26178 50.71184,11.0677 39.28071,29.84692 -11.43113,18.77922 -60.60002,50.53035 -56.51707,68.58354 4.08294,18.05319 61.41641,22.40763 103.05684,15.6035 41.64043,-6.80412 67.58564,-24.76619 89.35845,-39.37212 21.77282,-14.60592 39.37202,-25.85489 56.97157,-37.10409"
      id="path36" />
   <g
-     transform="translate(92.477794,452.41615)"
+     transform="translate(92.477794,257.53164)"
      id="g48">
     <g
        fill="#000000"
@@ -221,7 +215,7 @@
     </g>
   </g>
   <g
-     transform="translate(568.20996,344.64158)"
+     transform="translate(568.20996,149.75707)"
      id="g51">
     <g
        fill="#000000"
@@ -238,7 +232,7 @@
     </g>
   </g>
   <g
-     transform="translate(550.79185,251.01923)"
+     transform="translate(550.79185,56.134725)"
      id="g59">
     <g
        fill="#000000"
@@ -321,7 +315,7 @@
     </g>
   </g>
   <g
-     transform="translate(63.084738,251.01923)"
+     transform="translate(63.084738,56.134725)"
      id="g60">
     <g
        fill="#000000"
@@ -392,10 +386,10 @@
   </g>
   <path
      style="fill:none;stroke:#632b30;stroke-width:3.968;stroke-miterlimit:3.9;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#ArrowTriangleStylized)"
-     d="m 267.39527,316.3717 25.03854,3.53806"
+     d="m 267.39527,121.48719 25.03854,3.53806"
      id="path60" />
   <path
      style="fill:none;stroke:#632b30;stroke-width:3.968;stroke-miterlimit:3.9;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#marker62)"
-     d="M 442.1207,432.03885 454.91213,427.14"
+     d="m 442.1207,237.15434 12.79143,-4.89885"
      id="path61" />
 </svg>

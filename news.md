@@ -153,6 +153,9 @@ div.overlay-blue {
 
 <script src="/JS/slider.js"></script>
 
+
+
+
 <!-- 
 <div class="post-list">
   {%- if site.posts.size > 0 -%}
@@ -185,6 +188,17 @@ div.overlay-blue {
 
 <div class="slider">
 <div class="slider-wrapper flex">
+	<div class="slide flex">
+		<div class="slide-image slider-link prev"><img src="/img/IBM_Quantum.svg" alt="Book Cover"><div class="overlay"></div></div>
+		<div class="slide-content">
+			<div class="slide-date">05.08.2024</div>
+			<div class="slide-title">Wrapping up at IBM</div>
+			<div class="slide-text">IBM Research Summer Intern 24 finally came to an end. Here's a pretext for memory</div>
+			<div class="slide-more"><a
+            href="/news/2024-08-05.html"
+          >READ MORE</a></div>
+		</div>
+ 	</div>
 	<div class="slide flex">
 		<div class="slide-image slider-link prev"><img src="/img/non local.svg" alt="Book Cover"><div class="overlay"></div></div>
 		<div class="slide-content">

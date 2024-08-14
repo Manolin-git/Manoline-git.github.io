@@ -56,3 +56,15 @@
 
 });
 
+document.addEventListener('keydown', function(event) {
+  // Check if the ">" key (Shift + .) is pressed
+  if ((event.key === "ArrowRight")) {
+      // Find the "Next" arrow by class and trigger the click event
+      document.querySelector('.arrow.slider-link.next').click();
+  }
+  if ((event.key === "ArrowLeft")) {
+    // Find the "Prevision" arrow by class and trigger the click event
+    document.querySelector('.arrow.slider-link.prev').click();
+}
+});
+

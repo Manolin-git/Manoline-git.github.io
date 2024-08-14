@@ -96,7 +96,7 @@ gsap.utils.toArray(".parallax").forEach(text => {
                   </div>
                   <div class="caption fadeUp">
                       <h2 class="slideText">
-                          03/2024-Present
+                          03/2024-08/2024
                       </h2>
                       <p>
                       Quantum Intern at IBM Quantum

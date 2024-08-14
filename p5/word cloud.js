@@ -56,7 +56,7 @@ series.data.setAll([
   { tag: "non-hermitian", weight: 27.86 },
   { tag: "Integrable", weight: 27.13 },
   { tag: "QC2", weight: 24.31 },
-  { tag: "speed-limit", weight: 21.98 },
+  { tag: "VQE", weight: 21.98 },
   { tag: "open system", weight: 21.01 },
   { tag: "non-local", weight: 10.75 },
   { tag: "circuits", weight: 9.55 },
