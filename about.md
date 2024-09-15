@@ -7,17 +7,6 @@ permalink: /about/
 
 &nbsp;
 
-<!-- <div style="text-align: justify">
-
-Hi there! I am an MS in Physical and Mathematical Science at Division of Physical and Math. Sciences, Indian Institute of Science. I am also part of Quantum Optics and Quantum Information Lab at the Department of Instrumental and Applied Physics, working under Prof. CM Chandrashekar. Additionally, I am a quantum intern at IBM Research Lab, Bangalore.
-</div> <br>
-
-
-&nbsp;
-
-Detailed Curriculum Vit&aelig; : <a href="/CV/Curriculum Vitae.pdf" target="_blank" rel="noopener noreferrer">
-<i class="ai ai-cv"></i> <small> PDF </small> </a> -->
-
 
 <script>
     // use a script tag or an external JS file
@@ -62,6 +51,34 @@ gsap.utils.toArray(".parallax").forEach(text => {
  </script>
 
 
+<style>
+.container{
+  height: auto;
+  width: auto;
+  justify-content: center;
+  align-items: center;
+  display: flex;
+}
+.scrambletext {
+  font-family: 'Comfortaa Light', monospace;
+  /* font-weight: 100; */
+  font-size: 28px;
+  color: #C96868;
+  /* color: black; */
+}
+.dud {
+  font-family: monospace !important;
+  color: #333 !important;
+}
+</style>
+
+
+<body>
+<div class="container">
+  <div class="scrambletext"></div>
+</div>
+<script src="/JS/scramble.js"></script>
+</body>
 
 <body class="" id="top">
   <div class="history-wrapper-content">
@@ -72,7 +89,7 @@ gsap.utils.toArray(".parallax").forEach(text => {
                       <h2>
                           About Me
                       </h2>
-                      <p>
+                      <p style = "font-size: 20px;">
                       Hi there! I am a physicist broadly interested in the ideas at the intersection between condensed matter theory, quantum computing, and information theory.
                       </p>
                   </div>
@@ -83,28 +100,43 @@ gsap.utils.toArray(".parallax").forEach(text => {
               </div>
           </section>
           <section class='section'>
-              <div class="chapters c01">
+              <div class="chapters c02">
                   <div class="double-images type-01">
                       <figure>
                           <img
-                              src="/img/ibm_research_intern_group.jpg">
+                              src="/img/PI.jpg">
                       </figure>
-                      <figure class="parallax">
+                      <figure>
                           <img
-                              src="/img/ibm_quantum_group.jpg">
+                              src="/img/IBM-ads.jpg">
                       </figure>
+                  </div>
+                  <div class="triple-images">
+                      <figure>
+                          <img class="parallax"
+                              src="/img/iisc_01.JPG">
+                      </figure>
+                      <!-- <figure class="parallax">
+                          <img
+                              src="/img/qoqi_group_01.jpg">
+                      </figure> -->
+                      <!-- <figure class="parallax">
+                          <img
+                              src="/img/iisc_flower.jpg">
+                      </figure> -->
                   </div>
                   <div class="caption fadeUp">
                       <h2 class="slideText">
-                          03/2024-08/2024
+                          <!-- 2021-2024 -->
                       </h2>
-                      <p>
-                      Quantum Intern at IBM Quantum
-                      </p>
+                      <!-- <p style  = "font-size: 20px;">
+                        Quantum Intern @ IBM Research 2024 <br>
+                        MS Research in Physics @ Indian Institute of Science <br>
+                      </p> -->
                   </div>
               </div>
           </section>
-          <section class='section'>
+          <!-- <section class='section'>
               <div class="chapters">
                   <div class="triple-images">
                       <figure>
@@ -121,8 +153,8 @@ gsap.utils.toArray(".parallax").forEach(text => {
                       </figure>
                   </div>
               </div>
-          </section>
-          <section class='section'>
+          </section> -->
+          <!-- <section class='section'>
               <div class="chapters c02">
                   <div class="double-images type-02">
                       <figure>
@@ -142,10 +174,9 @@ gsap.utils.toArray(".parallax").forEach(text => {
                         MS Research in Physics @ Indian Institute of Science <br>
                         Quantum Optics & Quantum Information
                       </p>
-                      <!-- <p> Quantum Optics & Quantum Information </p> -->
                   </div>
               </div>
-          </section>
+          </section> -->
       </section>
   </div>
 </body>
