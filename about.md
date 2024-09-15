@@ -60,7 +60,7 @@ gsap.utils.toArray(".parallax").forEach(text => {
   display: flex;
 }
 .scrambletext {
-  font-family: 'Comfortaa Light', monospace;
+  font-family: 'Comfortaa Light';
   /* font-weight: 100; */
   font-size: 28px;
   color: #C96868;
