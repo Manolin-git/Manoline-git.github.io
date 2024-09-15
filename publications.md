@@ -164,6 +164,19 @@ e-Print: <a href="https://arxiv.org/abs/2207.05347">2207.05347 [quant-ph]</a> <b
 
 <h3 id="2024_pre" style="color: #343A40;">2024</h3>
 
+
+Quantum complexity and localization in random quantum circuits<br>
+<small> Himanshu Sahu, Aranya Bhattacharya, Pingal Pratyush Nath (Sep 05, 2024)<br>
+e-Print: <a href="https://arxiv.org/abs/2409.03656">2409.03656 [quant-ph]</a> <br>
+</small>
+<a href="https://arxiv.org/pdf/2409.03656" target="_blank" rel="noopener noreferrer">
+<i class="fa-solid fa-file-pdf"></i> <small>View PDF</small>
+</a> &nbsp; &nbsp; &nbsp;
+<a href="/bib/Sahu2024urf.txt" target="_blank" rel="noopener noreferrer">
+<i class="fa-solid fa-quote-left"></i> <small>cite</small>
+</a> &nbsp; &nbsp; &nbsp;
+
+
 Information scrambling in quantum-walks<br>
 <small> Himanshu Sahu (June 09, 2024)<br>
 e-Print: <a href="https://arxiv.org/abs/2406.05865">2401.07215 [quant-ph]</a> <br>
