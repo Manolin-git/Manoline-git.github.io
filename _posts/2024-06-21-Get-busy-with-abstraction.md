@@ -5,10 +5,10 @@ date: 2024-06-21 00:55:31 +0530
 ---
 
 <link rel="stylesheet" href="/style.css" />
-
+'The Plague' maybe the best descriptiion of our situation during the time of Covid-19.
 <img src="/img/plague_wide.jpg" alt="Image 1" class="centered-image">
 
-'The Plague' maybe the best descriptiion of our situation during the time of Covid-19. Whether it comes to reaction from officials
+ Whether it comes to reaction from officials
 <blockquote>
 Please answer me quite frankly. Are you absolutely convinced it’s plague?
 </blockquote>
