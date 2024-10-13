@@ -1,9 +1,0 @@
-@article{Sahu:2024urf,
-    author = "Sahu, Himanshu and Bhattacharya, Aranya and Nath, Pingal Pratyush",
-    title = "{Quantum complexity and localization in random quantum circuits}",
-    eprint = "2409.03656",
-    archivePrefix = "arXiv",
-    primaryClass = "quant-ph",
-    month = "9",
-    year = "2024"
-}
