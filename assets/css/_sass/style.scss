@@ -13,15 +13,25 @@ body {
   padding: 2em 1em;
   text-rendering: optimizeLegibility;
   height: 100%;
+  -webkit-font-smoothing: antialiased;
 
-  @media (prefers-color-scheme: dark) {
+  @media (prefers-color-scheme: lighten) {
     background-color: $body-bg-dark;
     color: $text-color-dark;
   }
 }
 
+.flex {
+	display: -webkit-flex;
+	display: flex;
+	-webkit-flex-direction: row;
+	flex-direction: row;
+	-webkit-justify-content: flex-start;
+	justify-content: flex-start;
+}
+
 h1,h2,h3,h4,h5,h6 {
-  font-family: "Lato", "Helvetica Neue", Helvetica, sans-serif;
+  font-family: "Comfortaa-Bold", sans-serif;
   font-weight: bold;
   line-height: 1.8;
   margin: 0;

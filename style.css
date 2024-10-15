@@ -1,3 +1,4 @@
+
 .centered-image {
 	display: block;
 	margin: 0 auto;
@@ -55,10 +56,8 @@ img
 }
 
 blockquote {
-    /* border-left: 7px solid #b83131; */
-	font-style: normal;
-	color: #343A40;
-    background: #E9ECEF;
+	font-family: "Comfortaa-Light", sans-serif;
+	font-style: "normal";
     margin: 1.5em 0px;
     padding: 1px 10px;
 	font-size: 16px;
