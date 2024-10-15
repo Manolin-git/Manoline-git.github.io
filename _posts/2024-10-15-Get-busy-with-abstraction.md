@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Get busy with abstraction"
-date: 2024-06-21 00:55:31 +0530
+date: 2024-10-15 00:55:31 +0530
 ---
 
 <link rel="stylesheet" href="/style.css" />
