@@ -5,10 +5,10 @@ date: 2024-04-25 00:55:31 +0530
 ---
 
 <link rel="stylesheet" href="/style.css" />
+<img src="/img/snow_mountain.jpg" alt="Image 1" class="centered-image">
+
 
 Recently, I read Hesse's Peter Camenzind -- my fourth read from Hesse. It surely left a quite different impression than some of his other works. However, it still follows somewhat the same theme, where a protagonist shares quite a unique value other than his surroundings and is forced to embark on a journey to self-realization. However, this is not completely true for Peter Camenzind --- for although he does discover a lot of wisdom through his wide exploration, he does not find the same state of content as other characters do. 
-
-<img src="/img/snow_mountain.jpg" alt="Image 1" class="centered-image">
 
 
 

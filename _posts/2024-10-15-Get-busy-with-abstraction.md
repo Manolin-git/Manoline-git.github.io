@@ -5,7 +5,6 @@ date: 2024-10-15 00:55:31 +0530
 ---
 
 <link rel="stylesheet" href="/style.css" />
-
 <img src="/img/faded tree.jpg" alt="Image 1" class="centered-image">
 
 'The Plague' maybe the best descriptiion of our situation during the time of Covid-19. Whether it comes to reaction from officials
