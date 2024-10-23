@@ -1,9 +1,12 @@
 ---
 layout: post
-title: Project 5
-description: another project
+title: Information Scrambling
+description: Quantifying the spreading of quantum information
 ---
 
+To be updated
+
+<!-- 
 Example modified from [here](http://www.unexpected-vortices.com/sw/rippledoc/quick-markdown-example.html){:target="_blank"}.
 
 H1 Header
@@ -53,15 +56,21 @@ define foobar() {
 ~~~
 
 (which makes copying & pasting easier). You can optionally mark the
-delimited block for Pandoc to syntax highlight it by specifying the languagae after the start of a block (e.g. `~~~python`) which would look like :
+delimited block for Pandoc to syntax highlight it by specifying the languagae after the start of a block (e.g. `~~~cpp`) which would look like :
 
-~~~python
-import time
-# Quick, count to ten!
-for i in range(10):
-    # (but not *too* quick)
-    time.sleep(0.5)
-    print(i)
+~~~cpp
+#include <iostream>
+using namespace std;
+
+int main() 
+{    
+    cout << "Size of char: " << sizeof(char) << " byte" << endl;
+    cout << "Size of int: " << sizeof(int) << " bytes" << endl;
+    cout << "Size of float: " << sizeof(float) << " bytes" << endl;
+    cout << "Size of double: " << sizeof(double) << " bytes" << endl;
+
+    return 0;
+}
 ~~~
 
 ### An H3 header ###
@@ -139,4 +148,4 @@ and images can be specified like so:
 Inline math equation: $\omega = d\phi / dt$. Display
 math should get its own line like so:
 
-$$I = \int \rho R^{2} dV$$
+$$I = \int \rho R^{2} dV$$ -->
