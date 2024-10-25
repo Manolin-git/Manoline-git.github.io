@@ -53,6 +53,20 @@ format("truetype");
 font-weight: normal;
 font-style: normal;
 }
+@font-face {
+  font-family: "EBGaramond-Bold";
+  src: url("/fonts/EB Garamond/EBGaramond-Bold.ttf")
+  format("truetype");
+  font-weight: normal;
+  font-style: normal;
+  }
+  @font-face {
+    font-family: "EBGaramond-Regular";
+    src: url("/fonts/EB Garamond/EBGaramond-Regular.ttf")
+    format("truetype");
+    font-weight: normal;
+    font-style: normal;
+    }
 
             
 
