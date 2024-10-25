@@ -30,8 +30,17 @@ Initially, this value will be zero for well-separated operators, but it will bec
 \begin{equation}
 \mathcal{O}(t) = e^{itH}\mathcal{O}_0 e^{-itH} = e^{i\mathcal{L}_ct} O_0 = \sum_{n=0}^\infty \frac{(it)^n}{n!}\mathcal{L}^n_c \mathcal{O}_0,
 \end{equation}
-where $\mathcal{L}_c$ is Hermitian Liouvillian superoperator given by $\mathcal{L}_c = [H,\,\bullet\, ]$. The operator $\mathcal{O}(t)$ can be expressed as a span of the nested commutators with the initial operator due to the repeated action of the Liouvillian. One constructs an orthonormal basis $\{|O_n)\}_{n=0}^{K-1}$ from this nested span of commutators, by choosing a certain scalar product $(\cdot|\cdot)$ on operator space. This orthogonal basis is known as the \textit{Krylov basis} and is achieved with the Lanczos algorithm --- a three term recursive version of the Gram-Schmidt orthogonalization method.</p>
+where $\mathcal{L}_c$ is Hermitian Liouvillian superoperator given by $\mathcal{L}_c = [H,\,\bullet\, ]$. The operator $\mathcal{O}(t)$ can be expressed as a span of the nested commutators with the initial operator due to the repeated action of the Liouvillian. One constructs an orthonormal basis $\{|O_n)\}_{n=0}^{K-1}$ from this nested span of commutators, by choosing a certain scalar product $(\cdot|\cdot)$ on operator space. This orthogonal basis is known as the <i>Krylov basis</i> and is achieved with the Lanczos algorithm --- a three term recursive version of the Gram-Schmidt orthogonalization method.</p>
 
+<p>Once, the orthonormal basis is established, we can write the expansion of the operator $\mathcal{O}(t)$ as
+\begin{equation}
+\mathcal{O}(t) = \sum_{n = 0}^{K-1} i^n \phi_n(t) |O_n)
+\end{equation}
+The amplitudes $\phi_n(t)$ evolve according to the recursion relation $\partial_t\phi_n(t) = b_{n-1}\phi_{n-1}(t) - b_n\phi_{n+1}(t)$ with the initial conditions $\phi_n(0)=\delta_{n,0}$. The Lanczos coefficients $b_n$ can be thought of as hopping amplitudes for the initial operator $\mathcal{O}_0$ localized at the initial site to explore the <i>Krylov chain</i>. The increase in support of operator away from the origin in Krylov chain reflects the growth of complexity as higher Krylov basis vectors are generated. To quantify this, one defines the average position of the operator in Krylov chain --- called the Krylov complexity as 
+\begin{equation}
+C(t) = (\mathcal{O}(t)|\mathcal{K}|\mathcal{O}(t)) = \sum_{n=0}^{K-1} n|\phi_n(t)|^2 
+\end{equation}
+where $\mathcal{K} = \sum_{n=0}^{K-1}n|O_n)(O_n|$ is position operator in the Krylov chain. </p>
 
 </div>
 
