@@ -4,6 +4,9 @@ title: "On Peter Camenzind - Novel by Hermann Hesse"
 date: 2024-04-25 00:55:31 +0530
 ---
 
+
+<i style = "font-size:16px; color: #293241;">Finding your place in the world</i>
+
 <link rel="stylesheet" href="/style.css" />
 <img src="/img/snow_mountain.jpg" alt="Image 1" class="centered-image">
 

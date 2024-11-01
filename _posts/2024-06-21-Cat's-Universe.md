@@ -3,10 +3,12 @@ layout: post
 title: "Cat's Universe"
 date: 2024-06-21 00:55:31 +0530
 ---
+
+
+<i style = "font-size:16px; color: #293241;">Our craving for the familiarity of world, makes us forever forgein to it.</i>
+
 <link rel="stylesheet" href="/style.css" />
 <img src="/img/cat_universe_p1_wide.png" alt="Image 1" class="centered-image">
-
-
 In recent years, I have spent a lot of my time with cats, and often envied the luxury they have -- for they are carefree and absentminded at times. Not to worry about things that we humans are occupied with throughout our lives. However, this has not deter me from thinking of many who have a difficult life and have to look for their survival day by day. Nevertheless, absurd you may think, this let me to wonder, if I could myself be a cat -- wondering around the floors of building, sleeping in many a balacony without any care.
 
 

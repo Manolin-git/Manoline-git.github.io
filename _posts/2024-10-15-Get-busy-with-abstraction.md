@@ -4,6 +4,9 @@ title: "Get busy with abstraction"
 date: 2024-10-15 00:55:31 +0530
 ---
 
+
+<i style = "font-size:16px; color: #293241;">There's require a certain abstraction to fight abstraction in the world.</i>
+
 <link rel="stylesheet" href="/style.css" />
 <img src="/img/faded tree.jpg" alt="Image 1" class="centered-image">
 
