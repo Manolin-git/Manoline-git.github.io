@@ -6,40 +6,20 @@ published: true
 ---
 
 
-<div class="ProjectContainer">
-
-	<div class="gallery">
-
-
+<div class="article-list">
   {% for project in site.projects %}
 
   {% if project.redirect %}
-  <div class="projectTile">
-          <a href="{{ project.redirect }}" target="_blank">
-          <span>
-              <h2>{{ project.title }}</h2>
-              <br/>
-              <p>{{ project.description }}</p>
-          </span>
-          </a>
-  </div>
+    <h4><a href="{{ project.redirect }}" target="_blank">{{project.title}}</a></h4>
+    <small>{{project.description}}</small>
 
   {% else %}
-
-  <div class="projectTile">
-          <a href="{{ project.url | prepend: site.baseurl | prepend: site.url }}">
-          <span>
-              <h2>{{ project.title }}</h2>
-              <br/>
-              <p>{{ project.description }}</p>
-          </span>
-          </a>
-  </div>
+    <h4><a href="{{ project.url | prepend: site.baseurl | prepend: site.url }}">{{project.title}}</a></h4>
+    <small>{{project.description}}</small>
 
   {% endif %}
 
   {% endfor %}
-
-	</div>
-
 </div>
+
+

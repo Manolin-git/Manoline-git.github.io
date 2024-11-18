@@ -12,6 +12,47 @@ description: Quantifying the spreading of quantum information
 </style>
 
 
+
+<!-- <div class="ProjectContainer">
+
+	<div class="gallery">
+
+
+  {% for project in site.projects %}
+
+  {% if project.redirect %}
+  <div class="projectTile">
+          <a href="{{ project.redirect }}" target="_blank">
+          <span>
+              <h2>{{ project.title }}</h2>
+              <br/>
+              <p>{{ project.description }}</p>
+          </span>
+          </a>
+  </div>
+
+  {% else %}
+
+  <div class="projectTile">
+          <a href="{{ project.url | prepend: site.baseurl | prepend: site.url }}">
+          <span>
+              <h2>{{ project.title }}</h2>
+              <br/>
+              <p>{{ project.description }}</p>
+          </span>
+          </a>
+  </div>
+
+  {% endif %}
+
+  {% endfor %}
+
+	</div>
+
+</div> -->
+
+
+
 <div class="justified-text">
 
 <p>Interactions in quantum systems can spread initially localized quantum information into the exponentially many degrees of freedom of the entire system. Central to understanding quantum scrambling is the concept of out-of-time-order correlators (OTOC). </p>
