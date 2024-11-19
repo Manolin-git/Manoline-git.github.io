@@ -2,6 +2,7 @@
 layout: post
 title: Information Scrambling
 description: Quantifying the spreading of quantum information
+date: 2024-11-15 00:55:31 +0530
 ---
 
 <style>
@@ -13,49 +14,12 @@ description: Quantifying the spreading of quantum information
 
 
 
-<!-- <div class="ProjectContainer">
-
-	<div class="gallery">
-
-
-  {% for project in site.projects %}
-
-  {% if project.redirect %}
-  <div class="projectTile">
-          <a href="{{ project.redirect }}" target="_blank">
-          <span>
-              <h2>{{ project.title }}</h2>
-              <br/>
-              <p>{{ project.description }}</p>
-          </span>
-          </a>
-  </div>
-
-  {% else %}
-
-  <div class="projectTile">
-          <a href="{{ project.url | prepend: site.baseurl | prepend: site.url }}">
-          <span>
-              <h2>{{ project.title }}</h2>
-              <br/>
-              <p>{{ project.description }}</p>
-          </span>
-          </a>
-  </div>
-
-  {% endif %}
-
-  {% endfor %}
-
-	</div>
-
-</div> -->
-
-
-
 <div class="justified-text">
 
-<p>Interactions in quantum systems can spread initially localized quantum information into the exponentially many degrees of freedom of the entire system. Central to understanding quantum scrambling is the concept of out-of-time-order correlators (OTOC). </p>
+To be updated. 
+
+
+<!-- <p>Interactions in quantum systems can spread initially localized quantum information into the exponentially many degrees of freedom of the entire system. Central to understanding quantum scrambling is the concept of out-of-time-order correlators (OTOC). </p>
 
 <p>Out-of-time-ordered correlators (OTOCs) allow us to measure the growth of operators. Consider two local operators, $W$ and $V$, in a one-dimensional spin chain. The idea is to study  the spread of $W(t) = e^{iHt} W e^{-iHt}$ using another operator $V$, which is a simple spin operator located at some distance $l$ from $W$. This can be done by looking at the expectation value of the squared commutator:
 \begin{equation}\label{eq.otoc.definition}
@@ -169,7 +133,7 @@ Operator growth and Krylov construction in dissipative open quantum systems <sup
 Published in: J. High Energ. Phys. 2022, 81 (2022) &nbsp;  <a href="https://arxiv.org/abs/2207.05347" target="_blank" rel="noopener noreferrer">
 <i class="ai ai-arxiv"></i></a> &nbsp;<a href="https://doi.org/10.1007/JHEP12(2022)081" target="_blank" rel="noopener noreferrer"><i class="ai ai-doi"></i></a><br>
 </small>
-
+ -->
 
 </div>
 
