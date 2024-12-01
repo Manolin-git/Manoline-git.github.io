@@ -9,6 +9,8 @@ date: 2024-06-21 00:55:31 +0530
 
 <link rel="stylesheet" href="/style.css" />
 <img src="/img/cat_universe_p1_wide.png" alt="Image 1" class="centered-image">
+
+<div style = "font-size:16px">
 In recent years, I have spent a lot of my time with cats, and often envied the luxury they have -- for they are carefree and absentminded at times. Not to worry about things that we humans are occupied with throughout our lives. However, this has not deter me from thinking of many who have a difficult life and have to look for their survival day by day. Nevertheless, absurd you may think, this let me to wonder, if I could myself be a cat -- wondering around the floors of building, sleeping in many a balacony without any care.
 
 
@@ -20,7 +22,7 @@ Now, I started feel some irritation of my schedule - rising, meal, walk, nap, wa
 If I were a tree amoung trees, a cat amoung animals, this life would have a meaning.
 </blockquote>
 I nodded to myself and went out.
-
+</div>
 <!-- I became an orange cat, and spend my first day dizzying, half awake and slept for nearly all day. When I woke up, and I streched myself, and strode half the night. -->
 
 

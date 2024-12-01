@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "An Account of an Ordinary Life"
-date: 2024-10-22 00:55:31 +0530
+date: 2024-12-1 00:55:31 +0530
 ---
 
 <i style = "font-size:16px; color: #293241;">A life of William Stoner --- reflection of many forms that love takes and powers that oppose it.</i>
@@ -20,7 +20,11 @@ it's Stoner's apprehension of the values and his faith to what he was doing that
 </blockquote>
 Despite the failure of his first love, Stoner discovers, 'that the person one loves at first is not the person one loves at last, and that love is not an end but a process through which one person attempts to know another.', during his affair with the young teacher Katherine. This love was pure, driven from 'lust and learning'. Though their lay waste amidst the conflict with his colleague, it also weigh to the value of marriage in one's life.</br>
 
-<p>In his final moments, Stoner began to realize that it was wrong to view himself as a failure: "It hardly mattered to him that the book was forgotten and that it served no use; and the question of its worth at any time seemed almost trivial." </p>
+<p>In his final moments, Stoner began to realize that it was wrong to view himself as a failure: "It hardly mattered to him that the book was forgotten and that it served no use; and the question of its worth at any time seemed almost trivial." And, therefore, Stoner did not experience the exact despair or forsaken moment that you see in Ivan's death in The Death of Ivan Ilych: "Why hast Thou done all this? Why hast Thou brought me here? Why, why dost Thou torment me so terribly?” Ivan's ending comes with a certain realization of how life could have been, and highlights his lack of awareness of true values.</p>
 
+<p>In its central the novel, as John Mcgahern said, 'is surely that of love, the many forms love takes and all the forces that oppose it.'</p>
 
+<blockquote>
+ He had, in odd ways, given it to every moment of his life, and had perhaps given it most fully when he was unaware of his giving. It was a passion neither of the mind nor of the flesh; rather, it was a force that comprehended them both, as if they were but the matter of love, its specific substance.
+</blockquote>
 </div>

@@ -10,7 +10,7 @@ date: 2024-04-25 00:55:31 +0530
 <link rel="stylesheet" href="/style.css" />
 <img src="/img/snow_mountain.jpg" alt="Image 1" class="centered-image">
 
-
+<div style = "font-size:16px">
 Recently, I read Hesse's Peter Camenzind -- my fourth read from Hesse. It surely left a quite different impression than some of his other works. However, it still follows somewhat the same theme, where a protagonist shares quite a unique value other than his surroundings and is forced to embark on a journey to self-realization. However, this is not completely true for Peter Camenzind --- for although he does discover a lot of wisdom through his wide exploration, he does not find the same state of content as other characters do. 
 
 
@@ -69,5 +69,5 @@ Finally, he comes back to mountain where he belonged -- And you asked, "Well, Is
   When I reflect on all my journeys and efforts to live, I am both pleased and annoyed to have proved the old adage that “fish belong in the water, farmers on the land.” No amount of art will transform a Camenzind from Nimikon into a city dweller. It is a situation to which I am becoming accustomed, and I am glad that my clumsy pursuit of luck has led me back, against my will, to the old nook between lake and mountains where I started, and where the virtues and vices, especially the latter, are the normal, traditional ones. In the world outside I had forgotten what it was like at home and had come very near to regarding myself as some rare and remarkable bird. Now I saw once again that it was merely the spirit of Nimikon spooking about inside me, unable to adjust to the customs of the rest of the world.
 </blockquote>
 Peter Camenzind is not so convincing in its end like the others -- Steppenwolf, Siddhartha or Demian. But it does present a strong case -- whether going against the flow of river really worth the trouble. 
-
+</div>
 

@@ -10,6 +10,8 @@ date: 2024-10-15 00:55:31 +0530
 <link rel="stylesheet" href="/style.css" />
 <img src="/img/faded tree.jpg" alt="Image 1" class="centered-image">
 
+
+<div style = "font-size:16px!important">
 'The Plague' maybe the best descriptiion of our situation during the time of Covid-19. Whether it comes to reaction from officials
 <blockquote>
 Please answer me quite frankly. Are you absolutely convinced it’s plague?
@@ -61,7 +63,7 @@ You’re right, Rambert, quite right, and for nothing in the world would I try t
 “I don’t know what it means for other people. But in my case I know that it consists in doing my job.”
 </blockquote>
 which in words, explores Dr. Rieux's character as someone deeply rooted in an abstract sense of decency. In summary, for Camus, abstraction represents a state of emotional numbness in the face of the harsh reality of the plague.
-
+</div>
 <!-- Apart from this theme of confronting the possibility of ceasing to exist, there are other themes explored through five or six characters. One of the main theme that explored through the narrator (Rieux) on <i>abstraction</i> which I did not understood so well on the first read, but only after when I listned to 'The Partially Examined Life' that it started to make more sense. -->
 
 
