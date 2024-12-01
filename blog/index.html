@@ -2,13 +2,14 @@
 layout: default
 ---
 
+
 <div class="article-list">
   {% for post in paginator.posts %}
-    <h4><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a></h4>
-    <small style = "font-size:12px!important;">{{post.date | date: '%B %d, %Y'}}</small><br>
-    <small>{{post.excerpt | strip_html}}</small>
+    <p style = "margin-bottom: 0.5px!important;"><a href="{{post.url | prepend: site.baseurl}}">{{post.title}}</a> <small style="font-size:12px!important; margin-bottom: 0px!important;"> {{post.date | date: '%B %d, %Y'}}</small></p>
+    <small style="margin-bottom: 5px!important;">{{post.excerpt | strip_html}}</small>
   {% endfor %}
 </div>
+
 
 <!-- pagination -->
 {% if paginator.total_pages > 1 %}
