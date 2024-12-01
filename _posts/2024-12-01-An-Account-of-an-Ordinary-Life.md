@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "An Account of an Ordinary Life"
-date: 2024-12-1 00:55:31 +0530
+date: 2024-12-1 
 ---
 
 <i style = "font-size:16px; color: #293241;">A life of William Stoner --- reflection of many forms that love takes and powers that oppose it.</i>
@@ -18,7 +18,7 @@ it's Stoner's apprehension of the values and his faith to what he was doing that
 <blockquote>
 <p>They talked late into the night, as if they were old friends. And Stoner came to realize that she was, as she had said, almost happy with her despair; she would live her days out quietly,  drinking a little more, year by year, numbing herself against the nothingness her life had become. He was glad she had that, at least; he was grateful that she could drink.</p>
 </blockquote>
-Despite the failure of his first love, Stoner discovers, 'that the person one loves at first is not the person one loves at last, and that love is not an end but a process through which one person attempts to know another.', during his affair with the young teacher Katherine. This love was pure, driven from 'lust and learning'. Though their lay waste amidst the conflict with his colleague, it also weigh to the value of marriage in one's life.</br>
+Despite the failure of his first love, Stoner discovers, 'that the person one loves at first is not the person one loves at last, and that love is not an end but a process through which one person attempts to know another.', during his affair with the young teacher Katherine. This love was pure, driven from 'lust and learning'. Though their lay waste amidst the conflict with his colleague, it also weigh to the value of marriage in one's life.
 
 <p>In his final moments, Stoner began to realize that it was wrong to view himself as a failure: "It hardly mattered to him that the book was forgotten and that it served no use; and the question of its worth at any time seemed almost trivial." And, therefore, Stoner did not experience the exact despair or forsaken moment that you see in Ivan's death in The Death of Ivan Ilych: "Why hast Thou done all this? Why hast Thou brought me here? Why, why dost Thou torment me so terribly?” Ivan's ending comes with a certain realization of how life could have been, and highlights his lack of awareness of true values.</p>
 
