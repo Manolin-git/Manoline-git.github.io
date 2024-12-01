@@ -16,8 +16,6 @@ date: 2024-11-15 00:55:31 +0530
 
 <div class="justified-text">
 
-To be updated. 
-
 
 <!-- <p>Interactions in quantum systems can spread initially localized quantum information into the exponentially many degrees of freedom of the entire system. Central to understanding quantum scrambling is the concept of out-of-time-order correlators (OTOC). </p>
 
