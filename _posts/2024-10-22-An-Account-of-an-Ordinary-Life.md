@@ -20,7 +20,7 @@ it's Stoner's apprehension of the values and his faith to what he was doing that
 </blockquote>
 Despite the failure of his first love, Stoner discovers, 'that the person one loves at first is not the person one loves at last, and that love is not an end but a process through which one person attempts to know another.', during his affair with the young teacher Katherine. This love was pure, driven from 'lust and learning'. Though their lay waste amidst the conflict with his colleague, it also weigh to the value of marriage in one's life.</br>
 
-In his final moments, Stoner began to realize that it was wrong to view himself as a failure: "It hardly mattered to him that the book was forgotten and that it served no use; and the question of its worth at any time seemed almost trivial." </br>
+<p>In his final moments, Stoner began to realize that it was wrong to view himself as a failure: "It hardly mattered to him that the book was forgotten and that it served no use; and the question of its worth at any time seemed almost trivial." </p>
 
 
 </div>
