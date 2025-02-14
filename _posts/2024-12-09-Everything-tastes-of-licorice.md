@@ -4,7 +4,7 @@ title: "Everything tastes of licorice"
 date: 2024-12-21
 ---
 
-<p style = "font-size:16px; color: #293241; font-family:Poiret One;">Hemingway's writings doesn't say much but still manages to communicate a lot</p>
+<i style = "font-size:16px; color: #293241;">Hemingway's writings doesn't say much but still manages to communicate a lot</i>
 
 <link rel="stylesheet" href="/style.css"/>
 <img src="/img/american-solitude.webp" alt="The Ebro: the great river" class="centered-image">
